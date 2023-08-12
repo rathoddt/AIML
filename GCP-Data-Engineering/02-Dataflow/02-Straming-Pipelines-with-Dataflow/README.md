@@ -25,6 +25,7 @@ Test the pipeline locally:
 ```
   python pipeline.py --streaming
 ```
+
 Run the pipeline with Cloud Dataflow:
 ```
   python pipeline.py --streaming --runner DataflowRunner \
@@ -41,3 +42,8 @@ Run the pipeline with Cloud Dataflow:
   --region us-central1 \
   --job_name tweeps  
 ```
+
+file:///usr/lib/spark/examples/jars/spark-examples.jar
+
+
+
