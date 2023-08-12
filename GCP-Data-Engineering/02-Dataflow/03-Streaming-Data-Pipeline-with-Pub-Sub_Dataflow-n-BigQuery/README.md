@@ -1,5 +1,5 @@
 # Create a Streaming Data Pipeline on GCP with Cloud Pub/Sub, Dataflow, and BigQuery
-Introduction
+
 
 This lab will simulate live highway sensor data which will be published to a Cloud Pub/Sub topic. Then, a Cloud Dataflow streaming pipeline will subscribe to it. The pipeline will take the streaming sensor data, transform it, and insert it into a BigQuery table. We will then view the streaming inserts in BigQuery while they are in progress, and attempt to gain some useful insights from the streaming data.
 
