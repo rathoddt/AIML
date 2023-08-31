@@ -1,0 +1,1001 @@
+SKU,product,supplier,stockLevel,unitPrice,retailPrice
+PPZP-312179,Squash - Guords,Thompson-Dickens,383,7.76,4.64
+WLDR-624741,Wine - Pinot Grigio Collavini,Herman-Strosin,571,6.34,1.27
+PHRB-463593,Lobak,Toy-Nitzsche,563,3.73,6.55
+QPWQ-614270,Corn Meal,Emmerich-White,264,0.51,1.22
+FSGL-658685,Whmis Spray Bottle Graduated,Durgan-Thiel,638,0.98,4.02
+XZHI-564517,Veal - Sweetbread,"Wiegand, Hegmann and Tremblay",749,3.24,0.28
+RZFO-528418,Horseradish - Prepared,"O'Conner, Ullrich and Wolf",770,2.52,0.02
+XMWQ-418292,Plaintain,"Simonis, Emard and Bernier",515,2.48,8.31
+LULU-132655,Chicken - Bones,Jacobi-Lang,262,6.52,5.11
+NCIK-799480,Lettuce - Iceberg,"Wilderman, Larson and Dickens",873,4.94,9.42
+MZOK-232906,Extract - Raspberry,Nader-Haley,685,2.86,7.92
+EYNN-211410,Basil - Seedlings Cookstown,Lemke-Swift,749,3.48,5.91
+CQHT-166933,Longos - Cheese Tortellini,Swaniawski Inc,71,5.11,7.81
+EWVY-593922,Rum - Mount Gay Eclipes,"Bauch, Durgan and Parker",517,3.38,2.46
+QWKT-383829,Cheese - Pont Couvert,Schulist Group,386,8.62,9.55
+ABUR-862768,"Bread - Roll, Calabrese",Lakin-Cronin,184,4.24,9.30
+RAIM-760283,Wine - Tio Pepe Sherry Fino,"Powlowski, Barton and Conroy",358,2.55,2.52
+BHUE-799521,Cheese - Camembert,Cassin-Rath,737,8.17,4.37
+PMLH-757383,Almonds Ground Blanched,"Kris, Schowalter and Rodriguez",547,9.41,9.87
+KNJU-081979,Bread - French Baquette,"Prohaska, Goyette and Toy",866,9.71,1.65
+HACU-565478,Garbage Bags - Clear,White Inc,145,9.93,2.62
+OGEE-946479,Chips Potato All Dressed - 43g,Rippin-Mraz,799,0.93,0.94
+CXSI-443416,Garbage Bag - Clear,Roberts Group,429,9.34,3.23
+QKHT-885953,"Veal - Brisket, Provimi, Bone - In",Pfeffer Group,614,9.77,0.12
+BPPM-388830,Tea - Camomele,Braun-Padberg,525,3.35,6.64
+QKMS-253639,Jack Daniels,O'Connell Inc,250,0.33,3.85
+NOHC-601103,Chocolate Bar - Coffee Crisp,Franecki-O'Connell,906,7.89,7.71
+YWTH-570600,"Plate - Foam, Bread And Butter","Douglas, Robel and Wiza",860,3.10,9.54
+WFKR-034326,Lid - 3oz Med Rec,Jacobi and Sons,538,2.89,4.00
+ZFAI-365704,Sesame Seed Black,"Hilpert, Harvey and Dietrich",304,1.63,3.39
+VUFX-445684,"Wine - Mas Chicet Rose, Vintage",Wehner-Davis,838,6.45,1.20
+AGBU-154345,Apple - Custard,"Heidenreich, Bechtelar and Runolfsdottir",56,7.90,3.06
+PBSL-115238,Sausage - Breakfast,"Romaguera, Tromp and Swift",459,2.12,7.52
+GJTR-796499,Tea - Honey Green Tea,Roob-Powlowski,757,8.73,3.91
+CLRW-851459,Arizona - Green Tea,"Harber, Keeling and Reinger",243,0.96,8.29
+KKGV-601467,"Wine - Red, Cabernet Merlot",Dickens-Volkman,455,5.01,3.52
+ALDQ-626287,Mousse - Banana Chocolate,Hodkiewicz-Boehm,526,1.08,4.94
+XJMO-711846,Marjoram - Fresh,Shields LLC,462,6.51,9.48
+SGBX-432319,Lettuce - Romaine,Rempel-Morissette,422,4.82,1.53
+DSNU-281725,Bulgar,Wunsch and Sons,505,9.16,9.23
+KZNE-065554,"Tart Shells - Barquettes, Savory","Tillman, Volkman and Deckow",800,4.47,4.78
+BCPG-564070,Aspic - Clear,"Mertz, Wolff and Torphy",276,5.33,8.82
+UUDT-303759,Truffle Cups Green,Gislason and Sons,947,3.65,3.09
+JYJJ-325348,Syrup - Monin - Granny Smith,Hintz LLC,858,0.35,2.73
+LZHR-957490,"Pork - Bacon, Double Smoked",Gorczany-Becker,584,4.04,9.73
+TYDK-873429,Puff Pastry - Slab,Deckow-Kling,573,2.59,8.10
+UNXH-980144,Cheese - Cottage Cheese,Smith Group,472,4.36,4.84
+DBVZ-758378,Tea - English Breakfast,Leannon and Sons,463,9.10,2.68
+DORB-554645,Cranberries - Frozen,Bins-Zulauf,933,6.65,0.23
+BYID-362817,"Bread - Pita, Mini","Graham, Goldner and Bayer",198,1.12,3.35
+QDFE-637270,"Mushroom - Morels, Dry",Halvorson Group,787,1.07,2.17
+KZQT-063093,Carbonated Water - Lemon Lime,Friesen LLC,886,9.29,9.07
+KCIQ-779120,Sugar - Monocystal / Rock,Mohr Inc,58,2.92,7.88
+PFPW-229845,"Napkin - Cocktail,beige 2 - Ply","Breitenberg, Gorczany and Adams",290,5.82,6.68
+XHSF-956203,Puree - Guava,Okuneva-Corwin,279,4.15,6.04
+DUVG-832934,Chocolate - Dark Callets,Mayer Inc,345,0.41,2.96
+QTCA-410112,Green Scrubbie Pad H.duty,"Jerde, Kassulke and Hills",278,2.77,2.92
+RQIY-430577,Smirnoff Green Apple Twist,Dooley Group,611,9.49,7.41
+ASVH-618486,Cake - Sheet Strawberry,O'Reilly-Boyle,822,2.53,9.62
+VWRY-848279,Kellogs All Bran Bars,"Lubowitz, Collier and Goldner",671,8.30,3.83
+YZFY-084872,Cups 10oz Trans,Lynch-Quigley,600,0.02,3.00
+DSNP-529543,"Beans - Black Bean, Preserved",Marks-McKenzie,426,4.40,5.86
+KVVJ-598947,Sausage - Breakfast,Mills Inc,177,5.19,3.44
+NLSN-398519,Wine - Periguita Fonseca,Paucek Group,498,0.86,2.05
+VOJZ-589876,Nestea - Iced Tea,Koelpin and Sons,458,5.54,8.86
+YJLK-905831,Bread Ww Cluster,Goldner-Weissnat,168,7.65,0.06
+MPNU-747549,Sprouts - China Rose,Williamson Group,370,2.07,6.42
+HVIM-683693,"Chicken - Leg, Boneless","Prosacco, Hessel and Conroy",866,3.94,3.09
+GBZV-240409,Beer - Molson Excel,VonRueden-West,246,8.02,1.51
+TKGR-781131,Celery,Wisozk-Klocko,419,8.34,4.40
+BKEN-112241,"Bar Mix - Pina Colada, 355 Ml",Koch LLC,838,2.10,7.79
+QUFY-353210,Pie Pecan,Robel-Rippin,366,0.82,4.05
+KFQS-591732,Pickerel - Fillets,Huel-DuBuque,123,7.85,3.79
+VCUW-677731,"Salmon - Atlantic, No Skin",Windler Inc,373,2.74,5.81
+PYFI-287730,Muffin - Zero Transfat,Wunsch and Sons,242,5.93,1.94
+UNQG-715092,Bagel - Everything Presliced,Farrell LLC,389,0.51,4.13
+DTRZ-501936,Cheese - Roquefort Pappillon,Hoeger Inc,672,0.83,3.99
+VGOU-428090,Wine - Puligny Montrachet A.,"Barrows, Tillman and O'Keefe",876,7.00,5.05
+GDFS-866260,Water - Spring Water 500ml,Larson LLC,916,2.84,7.14
+SVCJ-755947,Juice - Happy Planet,Metz Group,609,0.32,1.00
+UBZH-312561,"Lobster - Baby, Boiled",Rutherford Inc,883,0.19,2.47
+GIOG-550466,Peach - Fresh,Blanda and Sons,579,8.51,4.25
+VSUB-995886,Chinese Foods - Pepper Beef,"Herzog, Haley and Walker",619,9.05,7.88
+WRHD-598471,Sprouts - Peppercress,Terry LLC,960,1.24,1.79
+FJUK-829416,Walkers Special Old Whiskey,Hermiston LLC,780,6.91,2.70
+GPWD-951779,Wine - Magnotta - Belpaese,"Jaskolski, Adams and Borer",220,2.98,0.16
+DVBV-198342,Wiberg Cure,"Rosenbaum, Reinger and Sipes",740,4.57,3.40
+UNIY-663060,"Mushroom - Porcini, Dry","Kohler, Haag and Bartell",756,3.20,2.73
+KEQR-575035,Snails - Large Canned,"Jacobson, Gorczany and Stracke",791,3.19,8.42
+MDGW-085533,Pears - Bosc,"Schmitt, Weissnat and Gutkowski",963,6.82,3.16
+OKSE-286458,Pears - Bartlett,Auer Group,264,4.55,4.29
+SEYB-116417,Wine - Barossa Valley Estate,Schmeler Group,404,4.50,1.95
+IUQI-117171,Soup - Verve - Chipotle Chicken,Torphy Group,750,7.47,8.21
+PUMH-064068,Cod - Black Whole Fillet,"Klein, Terry and Mosciski",94,4.30,5.86
+ENWK-280224,Cake - Miini Cheesecake Cherry,Aufderhar-Wisozk,988,4.50,6.19
+WOIV-800630,Creme De Cacao Mcguines,Stracke-Rutherford,855,1.49,5.15
+TVTQ-611390,"Bread - Roll, Calabrese","Hirthe, Kuphal and Stokes",227,0.64,7.29
+EWLF-621825,Kiwi,Gulgowski LLC,388,9.39,6.67
+KJBM-888967,Pork Loin Cutlets,Waelchi-Lakin,356,6.55,0.77
+OKJC-123544,Fork - Plastic,"Weissnat, Kihn and Rau",143,1.74,9.70
+WFWE-820869,Figs,Bernhard Group,922,8.33,6.43
+IVLE-175345,Beef - Ground Lean Fresh,Ledner-Pacocha,605,7.24,6.38
+XRNT-251386,Shrimp - 100 / 200 Cold Water,Prosacco-Marquardt,379,9.52,9.95
+WYPJ-837654,Coffee - Hazelnut Cream,Kirlin LLC,326,1.53,0.23
+FLKK-504196,Turnip - Wax,"Kunze, Russel and Morar",760,9.02,7.25
+SFMS-925997,Wine - Gato Negro Cabernet,Runolfsdottir-Shanahan,446,7.76,9.59
+WWPH-290260,Wine - George Duboeuf Rose,Bashirian Group,71,6.37,5.11
+EOKU-013501,Cut Wakame - Hanawakaba,"Sawayn, Jenkins and Casper",467,0.47,6.56
+ZAIN-398412,Rappini - Andy Boy,Hodkiewicz-Medhurst,627,8.04,0.74
+SKUJ-743107,Wine - Chablis J Moreau Et Fils,Turner and Sons,89,6.71,2.71
+PRID-259560,Pumpkin - Seed,Stehr-Feest,360,5.59,8.09
+THCO-822495,Bread - Dark Rye,Krajcik-Lang,122,4.63,5.40
+TXOU-671331,Salad Dressing,Wisoky LLC,452,8.22,5.03
+ZBPN-426633,Hummus - Spread,"Trantow, Stiedemann and Little",672,8.72,6.34
+EYGP-637094,Squid Ink,Berge Inc,385,3.32,3.25
+LCJH-081340,Jolt Cola - Electric Blue,"Fisher, Effertz and Volkman",454,7.96,8.25
+EIID-418408,Jameson - Irish Whiskey,"Leuschke, Eichmann and Homenick",381,3.24,0.59
+XFLU-311780,Asparagus - Frozen,White Inc,920,5.32,9.65
+EUBA-801838,"Olives - Black, Pitted",Hayes and Sons,486,5.28,8.87
+KMMU-659292,Ice Cream Bar - Oreo Sandwich,Sanford Group,321,3.78,9.26
+PMYH-396104,Puree - Raspberry,"Bartell, Volkman and Anderson",903,4.88,7.10
+CUDF-427559,Cheese Cloth,"Rogahn, Mills and Nolan",579,8.99,7.52
+DTBZ-450975,Cape Capensis - Fillet,Murphy-Rolfson,111,4.64,5.79
+HGKY-337384,Tomatoes - Heirloom,"Fay, Hilll and Donnelly",730,9.52,4.65
+QEBI-242083,Syrup - Monin - Passion Fruit,Muller-Emmerich,979,6.33,4.06
+XATA-581994,Flour - Teff,O'Conner-Gerhold,403,9.85,3.21
+KYXD-968324,Basil - Pesto Sauce,Homenick-Ryan,597,6.02,8.46
+LTQE-868986,Wine - Fino Tio Pepe Gonzalez,Gibson Group,192,5.02,0.80
+LDTA-049286,Bandage - Flexible Neon,Buckridge-Pouros,704,0.87,9.02
+RPCJ-930477,Container - Clear 16 Oz,Russel and Sons,552,0.00,7.25
+BCCE-046761,Lettuce - Radicchio,Turcotte-Mills,750,0.46,7.09
+JLKV-187589,Shiro Miso,Dietrich Inc,333,5.43,3.68
+LUCX-126323,Water - Perrier,Beatty Group,214,9.24,7.92
+YRYY-002610,Tia Maria,Gottlieb-Anderson,899,4.26,6.72
+GHNF-122485,Rootbeer,"Sawayn, Turner and Beahan",596,7.14,9.57
+GXRW-268455,Flower - Leather Leaf Fern,Ernser Inc,772,2.64,1.76
+HMQV-330247,Pate - Cognac,Fahey-Gleichner,798,1.92,4.03
+UXOC-899085,Lid Tray - 16in Dome,"Mann, Roberts and Schneider",748,5.48,3.83
+OZZQ-584478,Pie Pecan,"Huel, Smith and Skiles",452,3.59,0.44
+XDJN-575435,Butter - Salted,Lowe LLC,659,4.31,7.50
+XUMP-277248,Pickles - Gherkins,D'Amore-Kilback,958,7.81,6.24
+DHVV-996127,"Pasta - Cappellini, Dry",Ullrich and Sons,759,9.51,7.19
+OTAB-177256,"Pasta - Shells, Medium, Dry",Harvey-Beatty,494,7.66,7.38
+LBPQ-256725,Wine - Winzer Krems Gruner,Cormier Group,50,0.83,4.21
+QUOU-970626,Plasticknivesblack,Dibbert and Sons,345,5.22,6.34
+XAPN-669063,Sprouts - Brussel,Jacobson LLC,283,1.80,3.98
+FULZ-448407,Cheese - Comte,Adams-Murazik,678,6.55,6.76
+FQJV-938966,Parsley Italian - Fresh,Grady-Sipes,655,5.95,3.67
+ALVN-824742,Flavouring Vanilla Artificial,Johnson Inc,556,5.33,1.74
+UTXU-631157,Olives - Stuffed,"Willms, Lang and Hansen",316,2.04,1.34
+ERJP-307057,Beer - Blue Light,Sauer-Borer,980,5.06,9.09
+TBAP-312722,Tea - Mint,"Volkman, Klocko and Beer",114,5.60,3.25
+AFAV-419740,Lettuce - Treviso,Raynor-Stroman,673,5.92,9.19
+BGEG-613198,"Beans - Fava, Canned",Feil-Langworth,775,5.95,2.44
+UPRO-461286,Sprouts - Peppercress,Rogahn Group,993,2.24,5.96
+ASMP-382425,Wine - Pinot Noir Latour,Feil Group,208,9.17,1.11
+QXEZ-957384,Longos - Burritos,Hand and Sons,932,5.99,7.88
+ZXDV-040818,Bagel - Everything Presliced,"Klein, Ziemann and Torp",977,7.48,2.85
+TBHP-529073,Catfish - Fillets,Rau-Schuppe,663,2.21,6.74
+OVXK-603221,Turkey - Oven Roast Breast,Weissnat-Altenwerth,245,5.21,5.72
+OEEB-203963,Lettuce - Lolla Rosa,Gutmann-Kemmer,827,5.37,3.72
+ETKY-014470,"Pasta - Rotini, Colour, Dry",Hansen LLC,504,5.92,6.56
+IPET-155171,Tomatoes Tear Drop Yellow,"Romaguera, Roob and Gutkowski",801,5.27,4.18
+OHTD-747589,Quail - Jumbo Boneless,Kilback-Spinka,947,1.08,9.32
+SFBK-621339,Buffalo - Striploin,"Flatley, Collier and Jenkins",537,6.24,1.35
+UOOG-384816,"Beef - Ox Tail, Frozen",Grady Inc,56,0.22,5.52
+TPIO-874878,Gooseberry,Doyle Inc,229,2.92,1.63
+VJPY-602178,Wine - Vidal Icewine Magnotta,"Howell, Pacocha and Purdy",879,8.16,5.42
+TXFS-508755,"Wine - Magnotta, Merlot Sr Vqa","Smitham, Zboncak and Bednar",657,6.78,1.50
+MZHB-458080,Bread - Pita,Heidenreich-Koepp,197,0.90,5.69
+ISPW-452588,Cabbage - Green,Hansen-Boehm,551,0.40,2.93
+CDLH-200042,Bagelers - Cinn / Brown,Marvin LLC,638,7.43,0.84
+PDEH-045413,Chevere Logs,"Daugherty, Haag and Considine",801,2.60,1.08
+IFNI-390351,"Beef - Rib Roast, Cap On",Hamill-Eichmann,354,9.25,1.74
+JFDN-497940,Marzipan 50/50,"Gleason, Friesen and Kiehn",441,5.60,9.06
+HROU-898024,Sauce - Ranch Dressing,"Thiel, Marquardt and Schneider",748,8.54,2.38
+HVTQ-287949,Chips - Miss Vickies,Mayer-Bode,92,6.37,7.53
+SDKJ-628597,Cheese - Stilton,Weber-Schiller,724,7.98,3.85
+JHLT-891489,Coffee - Flavoured,"Funk, Reichel and Bednar",626,3.26,3.57
+YHIS-205585,Soup - French Onion,Sanford LLC,435,5.39,0.13
+VNGN-668046,Sole - Iqf,Russel and Sons,306,5.85,7.23
+NLTL-117340,Beef - Montreal Smoked Brisket,Emmerich-Metz,993,7.48,1.13
+UPIT-663178,"Lobster - Baby, Boiled","Schulist, Schneider and Muller",971,4.58,3.13
+ONEM-970491,Apple - Custard,Klocko LLC,132,2.20,4.51
+EYLM-519500,"Pork - Bacon, Double Smoked","McGlynn, Hermann and Wisozk",347,2.01,9.48
+IGBX-608374,Pie Filling - Apple,Huel LLC,799,2.39,6.56
+NPTK-545579,Passion Fruit,"Bruen, Mayer and Kilback",648,8.46,0.04
+YRTO-999246,Lid - 0090 Clear,Lockman LLC,516,9.81,4.03
+LTEU-860723,Ostrich - Fan Fillet,Tromp LLC,682,2.42,2.79
+YJWW-597186,"Nut - Cashews, Whole, Raw",Runolfsson and Sons,470,7.37,0.41
+XJGF-471862,Sugar - Invert,Maggio-Hodkiewicz,776,7.39,1.51
+DFZX-756389,"Beans - Black Bean, Dry",Rutherford-Berge,870,3.08,9.29
+WNZO-082191,Oxtail - Cut,Gutkowski Group,377,1.94,3.30
+BKRE-383150,Quail - Jumbo,Yost-Predovic,527,3.00,9.22
+GCDW-873483,Cabbage - Nappa,Fritsch LLC,550,0.74,9.31
+BQCW-547984,"Water - Spring Water, 355 Ml",Keeling Inc,685,9.81,9.43
+ZYSA-508942,Bar Nature Valley,Nitzsche-Armstrong,708,8.53,7.38
+QLKO-784393,Noodles - Steamed Chow Mein,Wilkinson-Grady,96,0.23,1.21
+AANC-250731,"Oil - Food, Lacquer Spray",Mraz and Sons,57,3.90,3.19
+LGKW-498412,"Artichoke - Hearts, Canned","West, Jacobson and Dibbert",548,6.27,6.32
+UKPE-906839,Ham - Proscuitto,Balistreri and Sons,974,8.60,7.56
+LUSB-321940,"Wine - White, Cooking","Marvin, Stark and Wyman",311,6.13,3.37
+SMPI-131725,Potatoes - Mini White 3 Oz,Wisoky-Stanton,142,7.35,8.89
+KBYI-806318,Schnappes Peppermint - Walker,"Douglas, Donnelly and Leannon",837,9.96,8.19
+JYWR-490939,Soup - Campbells Broccoli,Dare-Smitham,786,7.30,0.24
+IKPU-589384,Appetizer - Lobster Phyllo Roll,Eichmann Group,233,3.74,9.84
+TOTW-890699,Soup - Campbells Beef Stew,Skiles Group,807,4.02,1.27
+KQAR-486396,Lettuce - California Mix,Conroy-Kiehn,558,7.10,1.25
+MTML-920145,"Bread - Bagels, Mini",Moore Inc,446,5.50,3.09
+JCOK-915930,Spice - Onion Powder Granulated,Gorczany Inc,131,9.02,4.96
+ZZGQ-897242,Shopper Bag - S - 4,Marvin-West,477,3.90,2.54
+QIQC-381846,Ham - Cooked Italian,Price Group,367,4.66,0.02
+MDHV-287429,"Tart Shells - Sweet, 3",Runte LLC,111,8.92,3.15
+ZYBI-126181,Pork - Bacon Cooked Slcd,"Wiza, Zieme and Mohr",718,4.63,2.40
+ZSFQ-248461,Mustard - Individual Pkg,"Rutherford, Stiedemann and Hermann",753,9.50,6.64
+PZCI-881865,Burger Veggie,"Welch, Parisian and Welch",784,2.74,1.66
+FMTI-864744,Chocolate Bar - Coffee Crisp,"Keeling, Koepp and Feest",853,4.14,5.53
+LMMK-050249,"Wine - Red, Antinori Santa",MacGyver LLC,749,7.21,8.67
+ZYLH-700304,Flavouring - Rum,"Gibson, Lindgren and Stiedemann",797,4.43,1.99
+BXVV-804933,Bread - Raisin,Kuhn-Heaney,314,8.50,5.38
+GRVA-020990,Mayonnaise,Sanford-Lakin,147,5.04,8.44
+AAVX-067183,Soup - Campbells Mushroom,Bergstrom and Sons,220,7.79,0.03
+VNCX-798912,Plasticspoonblack,Considine-Terry,702,6.23,9.94
+BKKI-339074,External Supplier,"Dicki, Koepp and Blanda",341,3.79,2.19
+KSWC-938295,Turnip - Wax,"Hilpert, Bernier and Goyette",754,0.53,3.30
+KAIE-755242,Chicken - Whole Roasting,Kemmer-Rohan,369,6.41,3.28
+QLLD-496083,"Soup - Knorr, Classic Can. Chili",Stoltenberg and Sons,758,7.56,8.44
+KEHO-818818,Oil - Grapeseed Oil,"Paucek, Wisoky and Witting",934,5.99,6.73
+CNQY-729755,Bar - Sweet And Salty Chocolate,Okuneva and Sons,629,5.46,6.42
+AGNI-513695,Sauce - Alfredo,Hettinger Inc,680,7.11,8.90
+KBWX-832202,Cheese - Cheddar With Claret,"Morissette, Oberbrunner and Konopelski",674,2.56,6.49
+CYPQ-273577,Chocolate - Dark,Legros-Okuneva,486,6.52,5.34
+CRAC-810134,Ecolab - Power Fusion,Yost and Sons,427,0.78,6.96
+LDTN-451071,"Butter - Salted, Micro",Gulgowski-Greenholt,421,8.26,7.50
+JONE-238339,Thyme - Dried,"Daugherty, Koss and Willms",196,2.50,2.17
+XVCI-642472,Tuna - Bluefin,Green Inc,729,8.38,5.24
+YUPC-853299,Bacardi Breezer - Tropical,Lemke Inc,312,0.10,2.82
+DUNT-655153,"Lamb - Leg, Diced","Corkery, Mueller and Gorczany",69,0.16,8.57
+DCMO-677897,Crawfish,"Cummerata, Murray and Heathcote",63,4.55,1.78
+ZPDS-919956,Pears - Anjou,Hilpert-McClure,840,7.93,7.26
+HAAD-151016,Pepper - Sorrano,Parker LLC,928,6.57,0.04
+PJAN-770943,"Bread - Multigrain, Loaf","Konopelski, King and Willms",317,7.70,9.54
+IVAB-815952,Rice - Jasmine Sented,MacGyver Inc,764,3.62,4.79
+FSLV-598218,Table Cloth 62x120 Colour,Jast-Gleason,754,2.07,9.65
+GZVF-194101,Nantucket Apple Juice,Crist-Hegmann,338,1.20,9.54
+DUWM-844671,Cookie Dough - Double,Harvey Group,877,7.58,4.11
+BYKH-877552,"Cheese - Mozzarella, Buffalo","Smith, Maggio and Hudson",832,8.01,0.26
+PGAF-181266,"Pasta - Tortellini, Fresh","White, Cronin and Fadel",779,8.02,8.46
+TGGM-877708,"Wine - Saint - Bris 2002, Sauv","Von, Gibson and Borer",852,3.35,4.40
+VEFE-039458,Rolled Oats,Beahan Inc,835,7.62,4.85
+BAOO-432122,"Oil - Truffle, White",Lesch Group,635,9.68,9.72
+CQAC-538541,Soup Campbells Split Pea And Ham,"Ziemann, Hoppe and Bashirian",723,2.36,5.80
+ANGO-051326,Vinegar - Balsamic,Reilly Inc,916,4.92,0.50
+LGQP-230317,Swiss Chard,Kessler Group,929,8.95,1.78
+DOGX-568521,Marzipan 50/50,Kling-Ziemann,822,4.38,4.93
+CZHQ-980983,Tart - Pecan Butter Squares,"Herzog, Fisher and Osinski",625,8.74,4.67
+HCSG-805616,Chicken - Whole,Emmerich and Sons,273,1.87,0.26
+TTSD-103188,Container - Clear 32 Oz,Howe Group,115,5.44,5.68
+DZWH-017809,Sausage - Breakfast,Reilly-Harris,825,6.67,1.36
+FHQD-435789,Beer - Maudite,"Reichert, Leuschke and Treutel",607,1.63,9.96
+LALN-504300,Chips Potato Salt Vinegar 43g,Fadel Group,151,3.97,0.86
+JIFL-348362,Vinegar - Rice,Emmerich Inc,752,8.05,1.51
+RAFP-258483,"Wine - Red, Gamay Noir",Schuster Group,734,1.95,7.48
+LEZG-171864,Flour - Strong,Rohan-Harber,569,9.00,6.71
+NJMN-867704,Truffle Cups - Brown,Ryan Inc,184,0.54,2.26
+TTRI-681257,Ginger - Ground,Ernser-Moen,628,6.82,9.80
+ZWUF-224639,Table Cloth 54x54 Colour,Bechtelar and Sons,654,3.74,0.91
+MKGG-646251,Soup - French Onion,Bosco-McCullough,314,5.69,8.53
+UPDW-741951,Arizona - Plum Green Tea,Jast and Sons,280,6.25,7.66
+XJXW-176263,Tarts Assorted,"Bradtke, Nolan and Feil",690,4.15,0.05
+GTUW-731485,Tea - Herbal - 6 Asst,Gibson-Dickinson,814,7.12,6.88
+CDTV-030073,Bread - White Epi Baguette,"Roob, Hahn and Funk",658,5.03,8.86
+CWCP-478687,"Juice - Grape, White","Dare, Swaniawski and Glover",122,0.88,8.65
+KPFX-311359,Cauliflower,Bartoletti and Sons,136,4.98,5.12
+SBLS-094419,Glycerine,Bradtke-Legros,400,9.10,5.80
+BTXZ-483268,Coffee Decaf Colombian,"Sporer, Jacobi and Barton",927,7.21,5.14
+QFNY-852300,Table Cloth 81x81 Colour,Mohr-Ferry,696,0.87,0.97
+MSIR-781424,Lamb Rack - Ontario,Emard-Cole,759,0.13,0.86
+CSPI-332220,Puff Pastry - Sheets,Mohr and Sons,370,5.94,0.50
+UWFB-566139,Potatoes - Fingerling 4 Oz,Macejkovic-Mayert,387,0.53,8.03
+DOHD-812594,"Lettuce - Romaine, Heart",Wyman Inc,262,6.30,9.17
+GLPK-150625,Long Island Ice Tea,Ward-Thiel,218,2.70,2.22
+ZGCA-472532,Hand Towel,Schmidt-Cronin,191,7.22,0.66
+FDBV-522198,Jam - Raspberry,"Dicki, Boyer and Mann",285,2.30,7.73
+BNMT-253379,Pork - Smoked Kassler,Turcotte and Sons,423,5.21,9.28
+VQAA-354507,Cookies - Assorted,Schaden LLC,191,4.52,4.68
+GGDN-334718,Cheese Cheddar Processed,Von LLC,307,4.47,2.82
+PKSS-604548,Potatoes - Yukon Gold 5 Oz,Weimann-Deckow,787,0.40,5.99
+MPJZ-563211,Lotus Rootlets - Canned,McDermott Inc,750,7.10,4.98
+CYUI-649011,Apples - Spartan,Hackett and Sons,833,0.03,8.86
+NPNW-720968,Bread - Onion Focaccia,"Von, Lebsack and Abbott",283,4.16,1.59
+VLMR-593448,Gatorade - Xfactor Berry,Bauch-Denesik,980,8.51,9.02
+IWAC-689326,Buttons,Lemke-Dooley,772,0.21,5.23
+PZGS-220388,Juice - Lagoon Mango,Langworth Group,343,2.52,2.55
+MLEX-070092,Appetizer - Mushroom Tart,Pfeffer-Kertzmann,621,0.21,6.69
+VYWM-036482,Turnip - Mini,"Kozey, Shanahan and Quitzon",766,6.05,0.83
+ZEIY-211325,Wine - Carmenere Casillero Del,Von-Beahan,72,3.05,2.59
+ZOBG-249316,Flower - Dish Garden,Muller Group,517,1.78,4.14
+JAPM-998837,Canada Dry,Ritchie-Corkery,531,0.23,9.74
+SUGC-735487,Corn Syrup,Walter-Macejkovic,640,3.77,1.98
+AQQZ-617602,Hog / Sausage Casing - Pork,Sauer Group,417,6.88,5.97
+JQZY-011495,Pasta - Cheese / Spinach Bauletti,Wiegand-Turner,765,5.24,2.38
+PXNV-298071,Sausage - Blood Pudding,O'Keefe and Sons,269,1.94,4.02
+XLSX-101160,V8 - Tropical Blend,Ankunding and Sons,690,8.29,3.79
+IZED-725559,Soup - Campbellschix Stew,"Zulauf, Rodriguez and Morar",804,7.85,9.18
+WFHS-638554,Orange - Blood,Hackett Group,717,1.06,7.95
+ZARZ-465040,"Loaf Pan - 2 Lb, Foil","Daugherty, Rice and Hermiston",447,5.06,0.73
+XTEU-146573,Plasticknivesblack,Heidenreich-Sipes,842,6.65,5.84
+MUTM-463230,Steam Pan - Half Size Deep,Smith-Herman,299,4.78,9.72
+NICU-693058,Wine - Champagne Brut Veuve,Feest and Sons,843,2.63,3.64
+AJYQ-923597,Tea - Herbal Sweet Dreams,"Graham, Bogan and Stamm",381,5.22,7.41
+DVBJ-977677,Wine - Kwv Chenin Blanc South,Prohaska-Ritchie,529,7.20,5.64
+UPEZ-156040,"Salmon - Atlantic, Skin On",Maggio-Bahringer,924,7.22,9.21
+BBHE-779527,Cleaner - Comet,"O'Conner, Lesch and Lebsack",661,9.25,8.63
+HSAP-480671,"Tomatoes - Vine Ripe, Yellow",Roberts-Frami,525,5.48,0.56
+UFNV-600252,Nantucket Pine Orangebanana,Jacobson-Schumm,248,8.53,4.60
+PSDN-881166,Olives - Nicoise,"Buckridge, Hegmann and Cronin",800,2.13,6.12
+RYVZ-140214,Apricots Fresh,Thompson Inc,90,6.02,2.05
+VFYV-285391,Table Cloth 62x114 Colour,Jerde and Sons,845,9.44,0.79
+VNPF-353017,Oyster - In Shell,Marks Group,719,0.26,3.62
+HNUS-306952,Coffee - French Vanilla Frothy,Stiedemann-Keebler,89,4.91,2.40
+CXLC-830292,Cheese - Shred Cheddar / Mozza,"Bashirian, Braun and Rath",303,8.73,5.84
+WXLR-828362,Oneshot Automatic Soap System,"Kertzmann, Nicolas and Daugherty",407,8.72,6.41
+VUCF-466889,Lid - 16 Oz And 32 Oz,Abbott Inc,749,0.16,5.23
+TMUK-546846,Mousse - Mango,Cummerata-Beatty,974,3.56,5.19
+GYEE-554215,Cardamon Ground,"Koch, Conroy and Bartell",435,0.53,7.20
+SKQY-960903,Coffee - Decafenated,Price Group,766,6.54,7.94
+GGDK-348382,"Peas - Pigeon, Dry","Okuneva, Greenfelder and Feest",815,2.04,9.58
+YJKU-063530,Spinach - Frozen,Kling-McGlynn,493,4.36,0.89
+GERQ-948940,Butter - Salted,"Predovic, Rippin and Hammes",268,0.19,8.34
+XXXJ-043303,Beef - Sushi Flat Iron Steak,Ratke LLC,163,8.57,9.88
+IRWL-910777,Wine - Sawmill Creek Autumn,Cassin-Sporer,611,8.82,4.47
+VCOG-956205,Wine - Blue Nun Qualitatswein,Monahan-Fahey,881,4.20,0.59
+FDKR-098386,"Chilli Paste, Ginger Garlic",Littel LLC,822,3.37,3.60
+CPEL-857835,Red Currant Jelly,Crona and Sons,648,5.46,7.96
+ZLJO-296776,"Beef - Outside, Round",Wolf and Sons,673,3.74,6.90
+KZJA-834216,Chocolate - Feathers,Runolfsdottir-Brakus,981,5.43,5.02
+NRGP-841774,Carbonated Water - Cherry,"Russel, Dooley and Ondricka",439,0.70,7.65
+RHQW-359017,Kiwi Gold Zespri,"Glover, Morissette and Ankunding",701,7.24,6.66
+EVCP-043770,Barley - Pearl,Kutch-Roberts,729,2.84,1.54
+UQKN-010135,"Wine - Red, Black Opal Shiraz","Morar, Lesch and Renner",859,2.55,9.10
+BYZU-406964,Eggplant Oriental,Bartell-Monahan,245,5.01,3.35
+TOTI-577851,"Artichokes - Knobless, White",Rolfson and Sons,87,6.54,6.39
+YFUN-840059,"Fish - Soup Base, Bouillon",Kling Inc,788,5.84,3.64
+EYOH-808133,Wine - Clavet Saint Emilion,"Dooley, Von and Cummings",900,4.32,3.19
+SCVQ-544039,Olives - Nicoise,Rutherford-Herzog,562,7.88,2.77
+IVTS-745072,Napkin White - Starched,"Lakin, Yost and Leannon",190,5.58,2.67
+CKCA-346147,"Wine - Magnotta - Red, Baco",Stokes Inc,447,1.50,5.33
+MGOW-333242,Jolt Cola,Grimes-White,766,0.31,8.51
+RQSA-432473,Beef - Ground Medium,"Hilpert, O'Hara and Cronin",522,5.57,0.35
+MTTP-424960,Muffin Mix - Blueberry,Price-Schumm,594,7.84,8.12
+QZSF-030637,"Chilli Paste, Hot Sambal Oelek",Kreiger-Bernier,396,1.72,4.73
+MUGW-856358,Chocolate - Feathers,Legros-Stoltenberg,371,7.67,6.54
+SBSJ-078360,Wine - Winzer Krems Gruner,"Casper, Langosh and Bins",230,5.61,9.46
+MDSQ-449081,Pork - Caul Fat,"Gerlach, Reynolds and Crist",147,1.39,1.28
+YEOP-375065,White Baguette,"Larson, Mills and Olson",190,9.45,9.41
+SDAV-794727,Mcgillicuddy Vanilla Schnap,Nikolaus-Hayes,477,1.92,9.97
+CIXT-858336,Wine - Casillero Del Diablo,Cremin LLC,166,6.86,3.07
+MGRY-267317,Knife Plastic - White,Heidenreich Inc,818,3.84,3.28
+KOJA-704175,Cookie Trail Mix,Will LLC,665,8.67,7.13
+REAH-703122,Tomatoes Tear Drop Yellow,McDermott Group,223,7.29,1.71
+VSQH-951613,Anisette - Mcguiness,Willms-Dare,620,6.87,2.38
+RKMO-526801,Lettuce - Iceberg,Conroy-Labadie,317,5.12,4.98
+VDYR-223518,Cheese - Cottage Cheese,McLaughlin and Sons,85,4.76,8.32
+LOZO-282777,Mushroom - King Eryingii,"Ortiz, Osinski and Pfannerstill",759,6.92,0.17
+AYGE-147505,Flour - Strong,Schmitt-Howell,640,0.86,5.81
+MXTA-743615,Coffee - 10oz Cup 92961,"Rosenbaum, Boyer and Reilly",703,3.90,5.18
+KOCW-812688,Soup Campbells Split Pea And Ham,"Schumm, Runte and Nolan",136,4.83,2.03
+RZMC-911339,Oranges,"Rohan, Romaguera and Russel",588,2.78,2.57
+RZXQ-155153,"Bread - Roll, Whole Wheat",O'Keefe Group,684,8.66,6.88
+AJGB-607716,Absolut Citron,"Kilback, Goldner and Hyatt",357,6.97,0.12
+QTND-008372,Lamb Tenderloin Nz Fr,Kreiger and Sons,234,4.47,7.13
+WIYY-746278,"Tabasco Sauce, 2 Oz",Mueller Group,404,0.91,9.41
+ILRL-381527,Veal - Knuckle,"Schultz, Moore and Larson",564,7.86,3.14
+YXFV-356970,"Coffee - Beans, Whole","Rowe, Kirlin and Wyman",895,4.83,7.11
+UNKD-970458,Soup - Cream Of Potato / Leek,"Ernser, Emmerich and Champlin",911,0.71,4.22
+QFSV-264325,Water Chestnut - Canned,Kerluke Inc,904,7.18,5.71
+PDPU-081145,Spic And Span All Purpose,Goyette-Cartwright,228,9.11,8.67
+PBWR-220782,Beans - Butter Lrg Lima,Kutch-Robel,529,9.75,6.53
+TFRB-146445,Cheese Cloth No 100,Hahn Group,166,0.13,3.56
+YRLA-646493,Wine - Rosso Del Veronese Igt,"Tremblay, Sawayn and Morissette",541,8.86,5.88
+POMB-504844,Chickensplit Half,Terry-Bogan,561,1.39,6.50
+QJTQ-876469,Wine - Rioja Campo Viejo,Ullrich-Mills,600,9.76,7.76
+XPYO-284382,Beans - Wax,"Quigley, D'Amore and Treutel",428,9.35,3.09
+LAIS-362100,Sloe Gin - Mcguinness,Schamberger and Sons,156,6.71,9.91
+FRDA-604596,Flour - Cake,Casper Inc,73,2.99,9.95
+XWJC-410139,Cardamon Ground,Bednar Inc,185,5.94,3.37
+QZFN-289369,Brandy Apricot,Zemlak Group,616,0.66,9.71
+BUFG-651822,"Quail - Whole, Boneless",Padberg-Hansen,452,6.56,7.58
+ZPWS-563256,Beef - Ground Lean Fresh,Goodwin Inc,254,1.93,4.76
+FMRI-987514,Flour - Strong,"Mohr, Homenick and Rowe",755,7.07,1.52
+ZFEN-977551,Cocoa Feuilletine,Kuhn-Robel,309,4.83,1.18
+FFXY-085083,"Pasta - Fett Alfredo, Single Serve","Smitham, Wilkinson and Medhurst",858,3.07,4.38
+XYDH-155108,"Pasta - Bauletti, Chicken White",Lynch-Auer,242,2.36,7.60
+CMUU-034323,"Soup - Campbells, Spinach Crm","McDermott, Kirlin and Moen",100,3.43,5.28
+GEZF-409734,Wine - Delicato Merlot,Klocko-Trantow,655,2.61,1.66
+VRDH-558530,Bread - Olive Dinner Roll,"Hammes, Stiedemann and Beier",564,3.53,6.41
+VAVT-771977,"Soup - Canadian Pea, Dry Mix",Tromp LLC,710,5.17,3.04
+TNJS-167827,"Chicken - Leg, Boneless",Fritsch-Vandervort,641,7.37,2.30
+TKXP-077177,"Bread - Roll, Whole Wheat","Rodriguez, Yost and Stokes",59,4.97,0.39
+JKRD-304099,Longos - Lasagna Beef,"Vandervort, Grady and Feest",81,5.53,4.19
+IOUY-451312,Lettuce - Iceberg,Crist-Hagenes,212,8.12,9.17
+CADY-164868,Ecolab Digiclean Mild Fm,"Connelly, Abbott and Marks",802,7.60,9.01
+CVUB-358247,"Sauce - Apple, Unsweetened",Schmeler and Sons,881,0.84,5.71
+XLIM-677590,Wine - Zinfandel Rosenblum,"Turcotte, Hudson and Eichmann",528,2.27,7.36
+QUWW-148702,Mussels - Cultivated,Haley-Quitzon,182,8.51,4.01
+UFAY-015058,"Wine - Red, Cooking",Huel LLC,165,4.81,1.70
+AOPE-312839,Onion Powder,"Christiansen, Feil and Sauer",831,7.56,9.62
+OTTT-799001,Sachet,"Hand, Waters and Heidenreich",51,4.60,1.97
+SPNB-156595,Puree - Mango,"O'Kon, Haley and Kuphal",584,6.78,7.05
+JIED-828646,"Soup - Knorr, Chicken Noodle",Kutch Inc,224,3.99,1.03
+PHVW-688712,Cheese - Oka,Bins LLC,549,4.49,3.00
+YSMW-158972,"Vodka - Hot, Lnferno","Green, Luettgen and Yundt",72,1.56,5.00
+YRWG-883043,"Wine - White, Lindemans Bin 95",Trantow Group,664,6.72,8.02
+DBPN-001570,Cheese - Asiago,Jerde-Hickle,263,8.64,0.49
+LNOE-318443,"Tea - Darjeeling, Azzura",Greenholt Group,905,2.86,9.37
+RTQK-354504,Sauce - Vodka Blush,Deckow Group,674,9.05,4.63
+HCRJ-300289,Wine - Vovray Sec Domaine Huet,Rippin and Sons,521,4.89,3.42
+TETT-297480,Pork - Bones,Fahey and Sons,466,7.48,6.39
+LEUX-199574,Brandy Apricot,Dicki-Renner,506,3.43,1.46
+ZYVR-719973,Goulash Seasoning,Spinka-Labadie,400,2.10,2.81
+VCMN-916017,Grapes - Green,"Franecki, Mueller and Lind",847,5.82,2.45
+GLYG-523011,Mix - Cappucino Cocktail,Morar and Sons,537,6.11,5.54
+RSIH-632502,Marjoram - Fresh,Braun Group,98,1.12,1.18
+ZXXS-355080,Mushroom - Porcini Frozen,Brakus-Deckow,975,9.02,8.36
+THLO-943138,Tilapia - Fillets,Toy and Sons,521,9.08,4.46
+XJQF-304840,Napkin White - Starched,Koepp-Hirthe,852,3.31,3.64
+EAZW-061936,"Soup - Campbells, Minestrone",Brown and Sons,827,0.90,6.15
+PXOZ-699790,Bay Leaf Ground,D'Amore-Schiller,116,8.69,3.81
+TCWW-514940,"Sugar - Brown, Individual",Schulist and Sons,684,5.76,0.42
+YBUC-419021,Flour - So Mix Cake White,Kuhn-Wyman,168,5.76,2.41
+WVVB-341614,Garlic,Friesen Group,556,6.38,8.15
+BLSX-356379,"Cookies - Oreo, 4 Pack",Abbott-Tremblay,71,7.96,9.33
+HPZD-369334,"Doilies - 5, Paper",Eichmann LLC,158,2.52,3.17
+ZHIA-651683,Ecolab - Mikroklene 4/4 L,"Block, Upton and Lind",394,6.84,3.55
+BCTW-328061,Shallots,"Dietrich, Huel and Pfeffer",797,6.37,6.42
+LZYH-155977,Cumin - Ground,Morissette Group,481,3.37,2.16
+KOFU-678465,Tomatoes Tear Drop Yellow,"Cronin, Stiedemann and Altenwerth",160,7.29,2.40
+CLVW-205727,Icecream Bar - Del Monte,Gutkowski-Anderson,399,0.96,0.62
+NLOI-105812,Wine - Prosecco Valdobienne,"Kuhic, Watsica and Keebler",584,4.83,1.50
+SPWT-899088,Vodka - Smirnoff,Schuster LLC,732,5.41,9.55
+NNHX-463666,"Beef - Cooked, Corned","Durgan, Mueller and Purdy",492,5.77,3.85
+WQZY-379114,Beef - Tenderloin Tails,Willms Group,874,6.22,0.84
+VAFI-513336,Cake - Lemon Chiffon,"Hauck, Pfannerstill and O'Conner",212,3.31,0.95
+AJWC-828605,Bacardi Breezer - Strawberry,Ondricka-Jakubowski,225,1.14,8.39
+DUVV-353925,Kale - Red,Windler-Corkery,174,0.71,3.89
+TWYY-011766,Foam Tray S2,"Ernser, Schmitt and Lubowitz",692,6.26,4.35
+BMSG-302565,Cheese - Fontina,"Grimes, Auer and Kertzmann",588,8.28,2.41
+SVDL-802169,Sobe - Berry Energy,Kerluke Group,946,0.73,3.52
+TJXJ-636354,Lamb - Bones,"Raynor, Quigley and Hills",951,2.96,6.27
+MVJL-682717,"Chocolate - Semi Sweet, Calets",Will-Kiehn,339,8.16,2.66
+ADUR-740115,Dried Apple,Bins and Sons,597,8.00,8.34
+AWGG-493586,Compound - Pear,"Will, Stracke and Wyman",791,5.58,6.80
+TYXE-534202,Island Oasis - Ice Cream Mix,Quitzon and Sons,695,5.36,3.63
+LDEB-230371,Chicken - Whole Roasting,Kreiger and Sons,138,8.75,3.50
+HLVW-896515,Pomello,Gerlach Group,955,2.81,2.08
+IBLY-756136,"Sprite, Diet - 355ml",McGlynn-Waters,838,2.47,2.52
+AGNY-515455,Chinese Foods - Chicken Wing,"Kris, Lubowitz and Koch",134,0.02,6.81
+JOLV-984548,Sugar - Brown,Abbott-Koepp,420,5.77,4.01
+SISC-559393,Beans - Yellow,Stiedemann Group,288,8.83,2.18
+XAMG-210118,Dragon Fruit,"Wunsch, Halvorson and Pouros",711,1.31,2.03
+ZTRG-263738,Pear - Prickly,"O'Reilly, Torphy and Kshlerin",622,3.27,6.30
+ZXSX-262768,Fudge - Chocolate Fudge,"Friesen, Pacocha and Schowalter",148,6.64,2.12
+ZIVV-589893,Rhubarb,"Considine, Wisozk and Bauch",130,8.45,1.09
+YYNJ-430174,Flower - Potmums,"Botsford, Pfeffer and Turcotte",578,3.32,8.81
+EKZL-618775,Wine - Niagara Peninsula Vqa,Breitenberg Group,616,5.08,9.26
+OKCG-182929,Lobster - Live,Fritsch-Huel,76,9.70,8.22
+WPMW-682560,Lettuce - Treviso,"Flatley, Renner and Larson",386,9.18,4.72
+PLQR-149099,Soup - Campbells Beef Strogonoff,"Larkin, Monahan and Nienow",60,0.38,1.47
+FYYB-119163,Sauce - Marinara,Powlowski-Bosco,913,5.10,2.25
+YTPQ-356268,Juice - Lime,Krajcik Group,789,5.44,6.93
+TBUD-435533,Muffin Batt - Blueberry Passion,"Kihn, Jacobson and Cormier",626,2.83,8.57
+EAHG-427773,Pancetta,"Rogahn, Macejkovic and Zieme",135,3.94,8.76
+VAIE-209516,Flavouring - Orange,Ankunding and Sons,607,8.86,5.30
+DRFP-830114,Pail For Lid 1537,"Haley, Schmidt and Emard",900,7.30,7.26
+LDMN-364027,Sponge Cake Mix - Vanilla,Glover-Cassin,296,4.87,0.24
+NYIN-591071,Soup Campbells Beef With Veg,Grady-Kuhn,957,4.72,1.22
+YROU-077249,Rootbeer,Kemmer LLC,107,2.38,2.38
+YZTO-782143,Kirsch - Schloss,Lebsack Group,154,0.49,5.24
+LKMO-104490,Pie Box - Cello Window 2.5,"Lemke, Gaylord and Wolf",440,8.55,3.15
+SPHG-352732,"Veal - Inside, Choice",Von Inc,247,6.44,2.91
+ZTLB-680488,Pork - Suckling Pig,Ferry-Fritsch,334,4.64,2.03
+WJHS-913497,Sausage - Meat,Oberbrunner Group,512,4.81,3.12
+QWTY-371687,Veal - Liver,"Greenfelder, Rau and Wisozk",497,7.28,2.66
+SAMA-287092,Hinge W Undercut,Mills-Boyer,829,6.50,6.14
+AGMP-885203,Marjoram - Fresh,"Grant, Halvorson and Goodwin",115,6.60,2.40
+KDXW-772769,Bouq All Italian - Primerba,Dickens and Sons,411,0.23,3.42
+EPKW-978590,Eggplant Italian,Schiller Inc,244,8.72,8.86
+JMIB-835654,Apple - Granny Smith,Fahey-Prosacco,411,7.56,7.48
+YURS-396591,Bouillion - Fish,Mayer-Beahan,182,3.20,9.87
+GQIO-884524,Lettuce - Spring Mix,Monahan and Sons,287,0.76,8.91
+ULQU-898066,Flour - Pastry,Lockman-Batz,569,0.53,4.81
+ZGQT-340582,Muffins - Assorted,"Bins, Denesik and Becker",323,0.74,3.34
+KUMN-417942,Soup - Campbells Tomato Ravioli,Bechtelar-Purdy,513,5.62,1.73
+CHJJ-718108,Oil - Shortening - All - Purpose,Reilly-Fisher,949,2.79,5.33
+NQOV-922053,Ice Cream Bar - Oreo Sandwich,Johnson-Pagac,132,9.14,6.04
+JRSK-318869,"Juice - Apple, 341 Ml",Upton and Sons,519,2.63,9.27
+ZZZU-616190,Bowl 12 Oz - Showcase 92012,Watsica-Kuhn,833,7.48,9.41
+PLZF-208533,Wine - Magnotta - Cab Sauv,Sauer Group,749,9.20,4.32
+WUTS-811969,Wine - Sake,Christiansen Group,533,9.32,5.52
+AGQU-388932,Mikes Hard Lemonade,Bruen Inc,854,8.78,4.10
+YTAN-267390,Bread Base - Gold Formel,Howe-Hartmann,476,6.05,6.78
+HCAW-234005,"Wine - Red, Gamay Noir",Russel Group,684,1.38,2.64
+XPJP-900753,Southern Comfort,Mayert Inc,650,4.95,7.24
+FPGS-585060,Longos - Burritos,Witting Group,769,5.14,2.33
+FUAT-066360,Cheese - Le Cheve Noir,"Feest, Robel and Kreiger",708,1.35,2.25
+YPEM-804729,Rice - Wild,"McDermott, Hills and Hirthe",337,7.98,1.63
+BCRM-923590,Cookies - Assorted,Weimann Group,380,4.58,2.71
+FHBS-826687,Wine - Chianti Classico Riserva,Huels Inc,484,6.74,4.06
+QDXO-837402,"Wine - Cahors Ac 2000, Clos",Mitchell Group,873,5.45,6.67
+PWFA-434715,Cheese - Parmigiano Reggiano,Ernser Group,997,3.95,7.67
+USCW-104844,Cheese - Parmigiano Reggiano,Hills LLC,164,4.52,2.77
+AJRK-030411,"Mushroom - Chantrelle, Fresh",Armstrong-Johns,522,7.36,4.23
+UVOU-646687,Food Colouring - Pink,Bradtke-Grady,937,3.90,3.74
+FJVO-552955,"Pasta - Lasagne, Fresh",Dicki-Steuber,942,7.58,7.29
+JBOK-625375,Lettuce - Belgian Endive,Towne Inc,346,3.10,4.34
+CFZJ-723621,Cabbage - Savoy,Ward-Lueilwitz,180,7.51,2.23
+ZYMU-860307,Ecolab - Balanced Fusion,"Turcotte, Stokes and Fadel",390,3.38,7.34
+DZNR-195108,Meldea Green Tea Liquor,Schumm-Cruickshank,479,0.35,5.98
+YLMJ-795192,Cattail Hearts,"Carroll, Gislason and Howe",847,1.36,2.88
+EOZU-486518,"Wine - Red, Pelee Island Merlot",Jakubowski-Bartell,355,2.16,8.41
+GAFJ-950454,Truffle - Peelings,Nolan-Beier,200,6.67,5.00
+GZLC-435503,Veal - Slab Bacon,"Graham, Ledner and Turner",665,6.41,7.39
+BWDR-763146,Glove - Cutting,Crooks-Bode,455,4.50,9.91
+JUBC-487830,Energy Drink,"Klein, Blick and Wolf",756,2.20,9.96
+GCAS-741553,Kiwano,"Harber, Gottlieb and Kiehn",742,8.86,4.63
+MEAY-202802,Coffee - Irish Cream,Osinski-Rowe,776,4.19,6.27
+WICV-000186,Container Clear 8 Oz,"Jast, McClure and Schulist",632,9.05,5.89
+FPFS-733523,Hand Towel,"Halvorson, Shanahan and Moore",494,5.74,9.57
+CBCF-055806,Samosa - Veg,Willms Inc,895,6.89,8.47
+DVEI-468938,Cookies - Amaretto,Romaguera-Kilback,934,5.28,8.00
+PZMW-140941,Cheese - Asiago,Denesik and Sons,659,1.87,3.90
+HVWA-627541,Venison - Striploin,"Goyette, Bergstrom and Pfannerstill",397,2.85,7.28
+ZIHR-835411,Rabbit - Frozen,"Blanda, Pfannerstill and Hilpert",248,0.92,7.85
+VEDL-749163,Flavouring Vanilla Artificial,Batz-O'Hara,735,8.03,3.59
+OMPU-073360,"Rum - Coconut, Malibu",Wyman-Waelchi,121,2.17,2.77
+HRJX-941132,Cocoa Butter,Murphy-Satterfield,611,1.20,8.52
+QAOK-208418,Blouse / Shirt / Sweater,Glover and Sons,802,8.26,3.81
+ECKB-220071,Plasticforkblack,Altenwerth-Abshire,467,3.84,7.02
+PNQW-018896,Mountain Dew,Marquardt-Kassulke,249,7.16,4.04
+QALD-058139,"Pepsi - Diet, 355 Ml",Lesch Group,451,0.08,7.57
+OQTV-332045,Longos - Lasagna Beef,Hackett-Mitchell,710,6.94,7.97
+ANXW-270838,Chocolate Liqueur - Godet White,Wisozk-Watsica,264,2.76,5.87
+MJAH-577781,Bag - Clear 7 Lb,Bahringer-Yost,921,1.20,6.00
+OPXP-521783,Cocoa Powder - Dutched,"Frami, Shanahan and Ryan",304,1.35,8.10
+OVCC-000318,Wine - Cabernet Sauvignon,"Abshire, Marvin and Dooley",266,2.30,3.54
+RSBJ-773472,Appetizer - Sausage Rolls,Boehm-Beier,233,3.00,7.18
+MVLD-467605,Celery Root,"Beatty, Corkery and Stokes",984,0.30,9.26
+BEFN-725309,Pepper - Red Chili,Casper and Sons,274,6.43,2.04
+APGV-592135,"Fish - Halibut, Cold Smoked",Wuckert-Streich,527,5.72,6.01
+HVJJ-370943,Beef - Tenderloin - Aa,"Rowe, Gottlieb and McDermott",182,4.84,6.17
+TRVP-748134,Beer - Paulaner Hefeweisse,Steuber Group,477,6.31,2.74
+GFAM-766298,"Tortillas - Flour, 12",O'Conner LLC,688,2.88,8.05
+ULAB-479877,Salt And Pepper Mix - White,Jerde-Schowalter,496,9.30,8.38
+GZXE-622626,Squid Ink,Kessler Inc,720,8.20,1.70
+UUHX-238440,Cheese - Stilton,"Maggio, Abernathy and Smitham",163,2.24,4.49
+KXBW-458900,Pate - Peppercorn,Gottlieb-Streich,58,4.67,1.27
+HCEH-593812,Turkey Leg With Drum And Thigh,Okuneva-Bashirian,769,2.72,8.50
+MTCN-874598,"Cheese - Cheddar, Old White",Lehner LLC,489,7.15,7.61
+YCXQ-668532,Pear - Asian,Hudson LLC,554,7.85,3.58
+FMCH-290493,Egg Patty Fried,Koelpin and Sons,862,7.47,9.24
+XJBF-135909,Noodles - Steamed Chow Mein,"Schmitt, Miller and Zieme",777,9.88,2.87
+RBQU-823415,Eel - Smoked,Gerhold-Pfannerstill,57,5.47,9.94
+RTTP-381124,Wine - Cave Springs Dry Riesling,"Steuber, Goodwin and Renner",156,5.82,5.39
+KIXI-374774,"Wine - Saint - Bris 2002, Sauv",Johnson-Herzog,197,8.18,9.86
+DOCV-935214,Hersey Shakes,"Paucek, Armstrong and Dooley",144,7.98,8.47
+UQVQ-309921,Beer - Labatt Blue,Fahey-Bartoletti,786,9.82,1.24
+UEDV-050575,Wine - Tribal Sauvignon,Smith-McCullough,826,4.99,4.29
+YAGV-436565,Beer - True North Lager,"Breitenberg, Berge and Ritchie",152,8.82,1.95
+DGGG-028319,"Apple - Delicious, Golden",Klein Inc,969,8.27,6.04
+PFLF-561182,Sauce - Salsa,Tromp Group,205,8.60,3.71
+XXMK-758335,"Juice - Apple, 500 Ml","Stehr, Kiehn and Haag",788,3.96,4.50
+DMJP-681128,Lettuce - Arugula,Boyer LLC,306,6.89,9.88
+VDYE-741320,Cup - Translucent 7 Oz Clear,Cormier-Legros,518,7.93,5.36
+DEKU-823980,Shark - Loin,"Ortiz, Ondricka and Torphy",257,4.91,3.70
+HNPB-710174,Icecream Bar - Del Monte,Cremin Group,392,9.30,8.90
+LGVR-158180,Bread Sour Rolls,Quitzon-Metz,598,6.83,3.12
+JRMZ-869444,"Cup - 6oz, Foam","Funk, Bechtelar and Mann",667,1.94,8.38
+ZTHM-979562,"Soup - Knorr, Veg / Beef",Kohler and Sons,321,9.15,8.71
+OBTR-200024,Wine - German Riesling,Boyer LLC,831,1.07,5.15
+QFWV-935864,Pasta - Orecchiette,"Oberbrunner, Reichert and Swaniawski",851,7.86,4.08
+BMIN-675362,Beef - Ground Medium,Stoltenberg-Hills,521,6.97,0.96
+TIXQ-879850,Chinese Foods - Chicken Wing,Erdman-Crooks,480,5.17,3.22
+FPFX-419420,Rabbit - Saddles,Runte Group,926,6.14,7.18
+UZPC-948340,Wheat - Soft Kernal Of Wheat,Wunsch-Murazik,689,6.68,2.40
+PJXN-910416,Taro Leaves,Grimes-McDermott,606,2.98,4.79
+MSHZ-911528,"Napkin - Cocktail,beige 2 - Ply",Hayes-Blick,404,8.79,0.92
+XHCA-063438,Beef Wellington,"Harris, Heaney and Cummerata",164,2.50,1.76
+FUMJ-575100,Soup - Campbells Asian Noodle,"Powlowski, Daugherty and Luettgen",167,6.95,0.08
+DVDO-981562,Cheese - Mascarpone,Waters-Langosh,631,4.93,7.49
+WACL-798419,Flour Dark Rye,Tremblay-Runolfsson,357,2.68,8.73
+GBVF-912385,Horseradish - Prepared,Pfeffer LLC,667,8.83,7.66
+BXOB-521539,Turnip - Mini,"Halvorson, Zboncak and Nolan",512,2.66,3.12
+MYCR-058109,Pears - Bosc,Feil Group,118,4.75,3.96
+XASX-165388,Carbonated Water - Wildberry,"Hessel, Kuphal and Bogan",381,0.16,2.11
+VYDL-568586,"Carrots - Mini, Stem On",Kulas-Schiller,238,0.77,6.21
+YJAP-081510,Myers Planters Punch,Auer-Schneider,817,8.96,3.49
+KGFM-241571,Cheese - Blue,"Renner, Haag and Treutel",774,4.67,2.59
+ZDJU-628777,Beer - Corona,Hand Group,748,5.12,9.41
+WEFI-442811,"Cookies - Oreo, 4 Pack",Gibson-Stark,358,6.75,8.49
+SADW-936060,Lobster - Tail 6 Oz,Wolf and Sons,126,7.70,5.94
+UJFH-106515,"Stock - Beef, White","Blanda, Emard and Wunsch",958,2.28,8.67
+BFLC-753429,Turkey - Oven Roast Breast,Rath Inc,258,2.33,2.84
+BUFZ-159470,Magnotta - Bel Paese White,Wisozk-Fahey,726,2.20,5.63
+VPBI-748780,Crackers - Graham,"VonRueden, Gottlieb and Rutherford",170,3.10,2.99
+QCHY-926440,"7up Diet, 355 Ml",Prosacco Inc,233,8.09,2.26
+ESEH-188247,"Soup - Beef Conomme, Dry",Hodkiewicz Group,166,2.15,7.88
+MKOT-731448,Piping Jelly - All Colours,Hudson Group,326,5.60,9.07
+IKSM-037259,Lid Tray - 12in Dome,"Gaylord, Koepp and Kreiger",338,8.86,6.29
+YNET-172214,"Brandy - Orange, Mc Guiness","Langosh, Morar and Robel",132,1.35,8.91
+FSJO-992854,Bread Fig And Almond,Will-Cummerata,929,0.70,2.02
+CLOH-371527,Kellogs Special K Cereal,"Will, Reichert and Considine",784,0.89,9.17
+AGNB-599452,Chef Hat 20cm,Jerde Group,721,7.75,0.41
+HFWR-168301,Whmis - Spray Bottle Trigger,"Johnston, Schmidt and Moore",467,8.84,7.41
+AJJU-059201,Numi - Assorted Teas,"Upton, Murphy and Veum",490,7.27,5.35
+EVHI-429789,Longos - Chicken Cordon Bleu,"Zboncak, O'Keefe and Rodriguez",507,6.42,2.67
+NOTW-139525,Cookies - Englishbay Chochip,Huels and Sons,230,2.36,9.13
+NFVW-973584,Lobster - Live,Pagac Inc,664,2.35,9.13
+GCMK-378890,Cheese - Gouda,Koch-Kautzer,737,2.17,2.39
+ZDJM-761697,Wine - Shiraz South Eastern,Streich-Russel,131,7.12,0.54
+YSVB-200323,"Pasta - Lasagna, Dry","Roob, Lowe and Heaney",107,9.44,5.17
+LQGE-504874,Passion Fruit,"Spencer, Cummings and Barrows",221,7.00,7.77
+OMLF-924762,Foam Cup 6 Oz,McGlynn and Sons,257,6.10,8.94
+MIHX-996540,"Pepper - Black, Whole","Keeling, Luettgen and Beatty",569,9.01,1.81
+GREK-399192,Wine - Pinot Noir Stoneleigh,Skiles-Schumm,734,6.24,2.56
+GDKS-701589,Vol Au Vents,Bernier LLC,96,5.29,0.66
+GDKA-695702,Leeks - Large,Hartmann-Jaskolski,465,1.40,6.72
+LPOZ-897196,Buffalo - Striploin,"Hamill, Nitzsche and Flatley",217,8.05,0.63
+LEUO-598141,Flower - Commercial Spider,"Daniel, Stroman and Schmidt",788,7.26,7.83
+VABU-191454,"Wine - White, French Cross","Medhurst, Turcotte and Hettinger",414,0.91,6.42
+TXIS-985216,Tomatoes - Roma,"Rippin, Champlin and Murray",810,9.29,7.08
+CFLY-707882,Cheese - Stilton,Ryan Group,862,8.37,4.06
+VPKD-226618,Wasabi Paste,McLaughlin and Sons,123,1.08,5.93
+DCQT-351930,Garbage Bag - Clear,Wilkinson-Schmidt,166,7.16,8.94
+UUAI-299748,Pepper - Sorrano,Tillman and Sons,985,4.14,9.42
+NUKT-137965,Steel Wool,"Schowalter, Bergnaum and Goldner",646,7.54,3.82
+CUSJ-863637,Wine - Manischewitz Concord,Upton-Fritsch,437,7.57,2.89
+LEIF-919044,Chocolate Bar - Oh Henry,D'Amore-Erdman,579,9.83,5.56
+NUVZ-247577,Wine - Sicilia Igt Nero Avola,"Koelpin, Muller and Bayer",296,2.41,4.22
+ZKGG-273605,Flavouring - Orange,Emmerich-Goldner,822,7.61,6.16
+XNVG-484054,"Napkin - Beverge, White 2 - Ply","Schmidt, Reynolds and Roberts",53,5.49,4.67
+ASBI-037074,Raspberries - Fresh,Bailey Inc,293,4.84,1.59
+DHHO-606684,Bacardi Raspberry,Murphy Group,526,0.32,6.09
+SXBA-593658,Cranberries - Fresh,Herzog-O'Hara,519,2.22,8.32
+PAVB-593502,Sambuca Cream,Schmeler-Koss,602,6.72,3.56
+GRLO-494227,"Jam - Strawberry, 20 Ml Jar",Runolfsson-Crona,348,0.78,9.43
+OWVS-748963,Plastic Arrow Stir Stick,Mann-Sauer,985,9.31,3.34
+OMHB-540801,"Soup - French Onion, Dry",Greenfelder-Klein,884,2.49,4.85
+MBZU-670987,Mustard Prepared,Goodwin-Jerde,653,8.60,2.09
+AHZW-212803,Tea - Lemon Scented,Spinka LLC,747,7.49,5.80
+VWKB-597098,"Mustard - Dry, Powder",Mills and Sons,105,4.71,2.71
+ZRSL-520636,Strawberries - California,Blanda-Hermiston,363,5.05,5.85
+KKYQ-878549,Eggplant Oriental,Lebsack and Sons,226,4.18,4.60
+HMCH-572454,Wine - Barbera Alba Doc 2001,Orn-Kessler,720,6.57,4.02
+RINZ-034004,"Veal - Insides, Grains",Pfeffer LLC,247,3.19,4.51
+SPFD-300561,"7up Diet, 355 Ml","Nolan, Spinka and Monahan",999,1.38,5.28
+OEKD-911894,Beef Striploin Aaa,Hilpert LLC,683,7.55,4.54
+QJMJ-671387,Pasta - Ravioli,Buckridge-Haag,797,7.37,3.38
+UNKB-151589,"Club Soda - Schweppes, 355 Ml",Kunde-Brown,82,9.79,1.58
+HSGJ-221549,Edible Flower - Mixed,Pouros LLC,761,4.78,1.79
+BVTS-865462,Glass Clear 8 Oz,"Luettgen, Ziemann and Hickle",447,7.57,6.76
+VMMW-950049,Shrimp - Black Tiger 6 - 8,Harvey LLC,309,4.56,5.88
+XRGR-122916,Turkey Leg With Drum And Thigh,"Kub, Hartmann and Mills",583,1.81,3.09
+GCCL-808873,"Pepsi - Diet, 355 Ml","Jacobi, Beahan and Schmitt",654,3.97,7.27
+FLDC-441007,Bread - Granary Small Pull,"Hilll, Stanton and Champlin",383,9.91,0.55
+TOIM-574033,Mince Meat - Filling,Ebert-Stoltenberg,427,7.44,6.48
+VLDZ-236391,Cucumber - English,Oberbrunner Group,284,9.44,1.12
+FCYK-974104,Knife Plastic - White,"Leannon, Sauer and Schumm",273,4.65,6.39
+EXJR-076901,"Pork - Tenderloin, Frozen",Treutel-McDermott,312,3.21,3.69
+NRCU-604129,Cheese - Roquefort Pappillon,"Gerhold, Lynch and Durgan",979,2.78,9.47
+VLFV-179869,Oranges,Pollich Group,574,8.54,0.04
+OIEZ-512478,Broom Handle,Dietrich-Weissnat,465,7.68,2.75
+DJZP-977248,Mountain Dew,Ward and Sons,929,0.16,7.43
+HOKD-407761,Sword Pick Asst,Mertz-Renner,540,0.06,0.08
+DGIP-489286,Flax Seed,"Thompson, Pouros and Walter",715,4.72,7.06
+VEEP-557237,Nestea - Iced Tea,Casper and Sons,283,3.67,2.23
+QYGK-116787,Apple - Macintosh,Ferry Group,920,5.54,9.88
+UZHV-061933,Sauce - Ranch Dressing,"Reichel, Gerlach and Harber",67,5.14,7.49
+PJSM-018446,Tuna - Loin,"Ryan, Stehr and Parisian",149,5.63,7.57
+LWIH-603884,Mint - Fresh,"Emard, Marks and Rowe",75,2.12,8.35
+ISBV-906932,Muffin - Mix - Strawberry Rhubarb,"Schmitt, Lindgren and Balistreri",222,4.66,6.00
+BKND-026071,"Cheese - Cheddar, Medium",VonRueden-Runolfsson,689,5.33,0.36
+QDWS-707601,Table Cloth 62x114 Colour,Gutmann and Sons,347,8.51,8.34
+RSFO-939287,Syrup - Pancake,Kassulke-Gutkowski,489,7.80,2.35
+HZLR-304105,Hot Choc Vending,Little-Thompson,592,7.37,1.72
+YNHA-701529,Ham - Virginia,Beier-Durgan,901,6.73,9.04
+DCQB-458613,Graham Cracker Mix,Fisher-Harris,401,3.28,1.89
+AUWW-593047,Bread Crumbs - Panko,Dooley and Sons,809,2.38,4.20
+NDCW-668363,Longan,Vandervort Inc,304,3.35,7.44
+EKTU-591544,"Soup - Knorr, Veg / Beef","Smith, Gibson and Hermann",88,0.58,2.70
+OBFG-722903,Tea - Herbal - 6 Asst,Will-Robel,709,7.57,2.67
+AHVL-848698,Wine - Port Late Bottled Vintage,"Hilll, Rolfson and Gibson",583,4.24,7.82
+QKSL-960398,Blueberries - Frozen,Ebert-Schamberger,737,5.57,8.26
+PUIU-500629,Laundry - Bag Cloth,McClure-Anderson,689,7.68,2.66
+PUQS-574270,Table Cloth 120 Round White,Ernser-Schneider,706,2.73,0.25
+HTBA-779869,Lamb Rack - Ontario,Bruen and Sons,64,3.08,4.65
+TGYP-795486,"Cup - 3.5oz, Foam",Leffler and Sons,620,9.16,7.88
+JNFH-543748,Lychee,West LLC,805,5.80,8.68
+QPYG-809441,Table Cloth 53x69 White,Steuber Group,106,5.99,3.36
+SHCZ-385952,"Mushroom - Chanterelle, Dry","Murazik, Tremblay and Jakubowski",254,3.45,5.02
+HDAP-741163,Sprouts - China Rose,"Davis, Abbott and Flatley",874,4.69,0.78
+MFZF-555094,"Soup - Campbells, Creamy","Corkery, Hintz and Shields",116,5.35,6.73
+HXKM-573923,Bread - Raisin Walnut Oval,Smith-Bergnaum,949,9.82,6.68
+NTSI-159468,Greens Mustard,"Mraz, Bashirian and Little",602,4.97,2.26
+LCGU-387129,Carbonated Water - Orange,"Mayer, Jaskolski and Hudson",699,0.61,0.02
+JBHE-383021,Butter - Unsalted,Lemke-Mraz,460,2.94,7.17
+YVIT-716038,Beer - Pilsner Urquell,"Klein, Purdy and Volkman",844,9.56,6.34
+VNRK-023364,Chips - Doritos,Zboncak-Moore,657,0.96,5.80
+REAI-456386,Squid - U 5,"Nienow, Feest and Berge",312,4.24,9.91
+NTNO-861751,Wine - Shiraz Wolf Blass Premium,Beatty and Sons,92,1.35,3.77
+VOKM-997029,Tomatillo,"Jast, Osinski and Lebsack",392,5.70,9.59
+SACB-133049,Dill Weed - Fresh,Pagac-Littel,424,7.97,8.42
+HCHU-799969,"Jam - Blackberry, 20 Ml Jar",Ryan-Oberbrunner,807,6.14,9.08
+LUKD-827250,Apple - Granny Smith,Turcotte and Sons,919,6.80,1.55
+WCQM-273743,Cranberries - Dry,"Rodriguez, Weber and Feest",689,9.02,2.04
+POPJ-184869,Veal - Liver,"Torp, Beahan and O'Reilly",550,5.93,3.12
+ZKPQ-503466,Orange - Blood,Schimmel-Kovacek,514,7.33,8.72
+QFAQ-189170,Pancetta,"Goodwin, Collier and Marks",909,5.09,8.42
+KCKS-559341,Muffin Batt - Carrot Spice,Swift Group,256,1.23,8.02
+GLEA-075576,Chicken - Bones,Gleichner-Lakin,775,6.62,2.31
+YSAP-571718,Veal - Liver,"Bayer, Okuneva and Doyle",294,9.37,6.73
+KLWQ-148332,Appetizer - Seafood Assortment,Ferry-Tremblay,699,1.01,8.48
+FYSK-660150,Prunes - Pitted,Wilderman-McLaughlin,386,0.10,8.51
+SXRJ-674489,Grenadillo,Armstrong-Borer,984,8.45,9.22
+SHTC-972137,Dried Apple,Bins Inc,831,6.23,7.44
+QCKJ-356543,V8 Pet,Beer-Sipes,458,1.34,2.56
+CPKW-469824,Pasta - Ravioli,Kutch and Sons,639,9.66,3.32
+XQGA-549431,Sandwich Wrap,"Dare, Bradtke and Bartell",648,8.38,2.41
+MXFH-032819,Cloves - Ground,"Erdman, Barton and Schumm",801,3.58,4.77
+UUDW-308914,Fruit Mix - Light,"Quitzon, Bruen and Wiza",803,2.18,5.75
+AHZT-441020,"Turkey - Breast, Bone - In","West, Berge and Stehr",96,9.57,0.07
+BVCR-203996,Crab Brie In Phyllo,Turner-Bernier,533,1.43,0.87
+XRQI-945095,Pork - European Side Bacon,"Bruen, Veum and O'Hara",189,7.18,8.05
+XFMR-614516,Wine - Rosso Del Veronese Igt,Torp and Sons,817,7.86,0.78
+VOLX-299737,Bar Mix - Lemon,Effertz-Bednar,253,6.22,4.05
+ZFFH-738378,Baking Soda,Weissnat Group,484,3.22,1.54
+MION-183723,Pomegranates,Cruickshank-Padberg,850,6.92,7.83
+RNIC-985597,Parsley - Dried,Wilderman Group,163,1.96,2.19
+LEQE-101270,"Cheese - Romano, Grated","Gerlach, Lowe and Waelchi",552,3.09,5.91
+RVFY-798782,Bay Leaf Ground,Willms Group,336,5.36,1.53
+CCPZ-892909,Butter - Pod,O'Connell-Ritchie,670,5.18,5.82
+OOSO-462799,Sauce - Cranberry,"Bechtelar, Wiegand and Nitzsche",487,4.57,6.42
+YEFB-139174,Wine - Sauvignon Blanc,"Bins, Tillman and Russel",785,8.49,3.36
+SIRX-634125,Onions - Cippolini,Ryan-King,290,6.39,9.19
+FALG-904446,Goat - Whole Cut,"Klein, Cummerata and Becker",137,9.11,3.93
+DILO-049467,Appetizer - Southwestern,Connelly Inc,85,7.16,5.89
+FNSY-643004,Sugar - Cubes,Ritchie-Mante,721,5.25,9.41
+EXUA-328062,"Mop Head - Cotton, 24 Oz",Hand-Ryan,185,8.95,6.17
+DYQV-088837,"Yogurt - Raspberry, 175 Gr","Kiehn, Paucek and McLaughlin",65,0.89,0.13
+BLQL-250898,Tumeric,Brekke Inc,137,8.13,2.12
+VDSZ-020057,Pie Shell - 5,Lang-Denesik,783,3.72,7.93
+GDLF-209711,Nantucket Pine Orangebanana,Wisoky-MacGyver,177,7.17,4.59
+QVNN-605288,"Turkey - Breast, Bone - In",Heaney-Grady,739,8.23,4.75
+VHFI-139456,Wine - Muscadet Sur Lie,"Hamill, Stamm and Zulauf",712,0.25,6.50
+WEZV-026629,"Cheese - Boursin, Garlic / Herbs",Ebert-Kreiger,478,6.05,7.86
+WBBM-456273,Ham - Black Forest,Flatley-Goyette,200,1.90,6.63
+URRR-060491,Berry Brulee,Bailey-Boyle,137,7.68,9.91
+SDDT-845938,Jam - Apricot,Lang Inc,377,8.93,3.37
+NRBV-936397,Wine La Vielle Ferme Cote Du,Langosh Group,689,7.89,9.52
+QBPM-243478,Tart - Butter Plain Squares,Torphy LLC,382,0.73,0.01
+WAMX-595996,Table Cloth 90x90 White,"Schuppe, Legros and Sipes",680,10.00,0.77
+IPRF-667881,Sherbet - Raspberry,Bauch LLC,864,5.32,9.45
+OBGZ-077963,"Seedlings - Buckwheat, Organic","Kertzmann, Koepp and Welch",453,1.33,2.75
+GZKQ-356862,Samosa - Veg,Barrows Group,643,0.40,3.15
+FDKX-975406,Nantucket - Orange Mango Cktl,Turcotte and Sons,980,2.13,9.30
+YDWV-047658,Kirsch - Schloss,Nikolaus and Sons,753,1.45,1.72
+QALQ-583539,Wine - Rioja Campo Viejo,Hills-Gislason,948,2.80,5.37
+VUSK-693771,Scallop - St. Jaques,Rau-Labadie,546,8.24,5.15
+PIGY-825833,Wine - Trimbach Pinot Blanc,Walter and Sons,741,1.44,8.69
+GQZT-062332,Chocolate - Dark,Trantow-Zemlak,405,3.00,8.92
+IPLR-246227,Orange - Blood,Harvey-Wilkinson,388,1.58,3.20
+ZHVJ-736638,Bread - Focaccia Quarter,Littel and Sons,753,5.52,4.08
+DDTS-982637,Gooseberry,Hauck Inc,943,0.10,7.23
+ZYAT-672365,Cheese - Cambozola,"Rowe, Gulgowski and Goldner",548,8.62,3.31
+HOXS-357861,Muskox - French Rack,Sipes Group,157,8.86,0.37
+CJGE-911583,Muffin Orange Individual,VonRueden Inc,797,1.98,5.10
+KAJX-451152,Onion Powder,Rodriguez Inc,360,2.18,9.32
+FDTW-609520,"Water, Tap",Will Inc,977,4.07,8.22
+JOMG-584281,Halibut - Steaks,"Prosacco, Stiedemann and Lueilwitz",883,5.17,4.61
+BJEC-608420,Sugar - Cubes,"Schinner, Marquardt and Thompson",869,3.27,7.06
+XBLY-278483,Lentils - Green Le Puy,Gaylord and Sons,565,1.89,1.77
+ZQUT-004610,Butcher Twine 4r,"Mayert, Abshire and Bayer",128,1.43,1.17
+PZQT-759438,"Rum - Coconut, Malibu",Dietrich-Gleichner,596,0.20,6.79
+PCCW-967516,"Cheese - Cheddar, Medium",Rutherford-Tremblay,567,9.84,5.93
+NREG-267547,Brandy Cherry - Mcguinness,Tremblay Group,245,9.84,5.65
+XTPA-082355,Smoked Paprika,Baumbach-Howell,501,2.80,3.72
+NGCI-107246,Wine - Carmenere Casillero Del,Heller-O'Conner,860,4.96,8.84
+JVEW-065593,Sauce - Oyster,Hand-Cruickshank,670,7.66,0.29
+JSEO-625259,Sword Pick Asst,"Auer, Mosciski and Dooley",358,2.99,7.82
+LOYL-745969,"Mushroom - Oyster, Fresh","Herzog, Harris and Larkin",374,5.89,1.05
+DMJX-976365,Eggplant Oriental,"Larson, Lehner and Smitham",609,9.26,7.78
+ROPK-245258,"Mushroom - Shitake, Dry","Hintz, Eichmann and Herman",543,9.03,9.04
+FUTQ-667304,Hold Up Tool Storage Rack,"Ullrich, Nikolaus and Morissette",619,9.43,3.89
+BIYH-567054,Fennel - Seeds,"Rodriguez, Price and McDermott",399,0.92,7.09
+PCOM-624945,Lime Cordial - Roses,"Robel, Schumm and Reichert",400,2.48,5.32
+ZIJJ-484054,Liquid Aminios Acid - Braggs,Ryan-Moore,243,5.31,9.14
+KRLD-557682,Soup - Campbells Beef Noodle,Runolfsson and Sons,819,8.08,1.87
+DVNH-508398,"Pork - Back, Long Cut, Boneless",Wolff and Sons,700,3.47,3.01
+RKTQ-408070,Coconut - Whole,Torp-Kerluke,635,6.62,0.44
+XRPJ-156885,Chocolate - Semi Sweet,Sipes-Stokes,719,7.00,6.91
+TXYE-868596,"Chocolate - Pistoles, Lactee, Milk",Simonis-Heathcote,680,8.47,3.19
+VPWM-024342,Sterno - Chafing Dish Fuel,Hackett-Koch,862,1.76,4.94
+COAQ-704940,Cookies - Amaretto,"Vandervort, Dicki and Macejkovic",521,4.67,6.08
+DRUC-797214,Rice - Aborio,"Tremblay, Aufderhar and Crooks",414,5.65,9.49
+XUDX-068932,V8 Splash Strawberry Banana,"Heidenreich, Goldner and Medhurst",333,1.59,4.64
+GWXH-005359,Wine - Jaboulet Cotes Du Rhone,Towne-Torphy,787,4.86,6.08
+QYIP-999192,"Zucchini - Mini, Green",Walsh Inc,852,3.19,7.87
+VVKU-824906,Chip - Potato Dill Pickle,Rogahn Group,753,1.22,6.80
+HJGT-000745,Soup - Campbells Chili Veg,Schmeler-Schuppe,142,1.44,4.30
+XEQF-331742,Chicken - Soup Base,"Satterfield, Gerlach and Wolff",474,8.25,5.10
+GCTW-181674,Instant Coffee,Rempel-Kilback,424,4.05,1.08
+NSXM-404131,Sauce - Plum,Ratke-Pacocha,141,0.42,9.29
+DQDT-106119,Extract Vanilla Pure,"Auer, Olson and Zemlak",664,5.94,4.00
+XYUR-677540,"Salsify, Organic",Stark Group,76,0.47,9.03
+GZIN-938738,Cauliflower,Howe-Volkman,763,0.69,8.88
+JHPW-935340,Bread - English Muffin,Fadel-Altenwerth,774,8.79,7.18
+XSRT-586472,"Soup - Clam Chowder, Dry Mix",Ankunding-Howell,287,3.19,8.95
+VSGR-276667,Soho Lychee Liqueur,"Kub, Jones and Moen",476,6.81,6.09
+PGHS-837186,"Basil - Primerba, Paste",Stokes-Waters,104,3.65,0.48
+ZFRB-844421,Wine - Redchard Merritt,Langworth-Barton,58,7.70,6.21
+VUWA-330468,Seedlings - Clamshell,"Adams, Runolfsson and Crist",674,2.08,3.33
+PHUW-585142,Veal - Eye Of Round,"Carter, Kautzer and Legros",496,4.39,3.20
+EHMI-336430,Sour Cream,Russel-Smith,483,6.68,8.77
+HMPK-788946,Puree - Mango,Denesik and Sons,126,2.03,1.54
+DZPN-383765,Potatoes - Parissienne,Volkman-Schoen,171,2.85,4.22
+MKAN-508157,Ecolab Crystal Fusion,Runte Inc,621,3.54,0.89
+JOXC-786933,Truffle Cups - Brown,"Leffler, Schaefer and Hane",502,4.55,4.54
+GUAO-928244,"Wine - White, Ej",Schumm Group,353,2.55,7.67
+ZRAT-188324,Puree - Strawberry,"Hartmann, Schneider and Hane",524,0.41,1.43
+INND-909396,Puree - Passion Fruit,"Osinski, McKenzie and Vandervort",720,8.13,9.58
+OQMW-238383,"Cake Circle, Foil, Scallop","Rutherford, Reinger and Barrows",286,3.01,8.65
+ALLI-266190,"Stock - Beef, White","Thiel, Beatty and Stokes",482,2.94,7.53
+HVEF-919423,Flour - All Purpose,Thompson Group,388,9.93,6.79
+TKJS-110723,Chicken - Livers,Harber Group,344,9.23,1.09
+GHOF-606967,Bread Ww Cluster,"Schmidt, Williamson and Gibson",680,2.55,5.03
+MQKY-184320,Mangoes,"Schaden, Kulas and Johns",731,7.09,9.14
+YHNK-566120,"Liners - Banana, Paper","Klein, Harber and Gleason",707,5.70,1.74
+RXEE-649698,Apple - Custard,Hermann-Schuster,272,7.36,2.96
+IKWN-305469,Soupcontfoam16oz 116con,Corwin-Goldner,745,6.91,6.30
+CNSN-328618,Sauerkraut,Mann-Mosciski,147,7.44,1.11
+GDGM-817989,Chives - Fresh,Schowalter and Sons,737,7.81,4.94
+FWDG-910130,Cheese Cheddar Processed,Runolfsdottir-Bechtelar,244,5.50,7.31
+YOQS-348164,Cafe Royale,Franecki-Franecki,873,9.81,8.67
+ZKEL-425600,Flour - Masa De Harina Mexican,"Casper, Jakubowski and Gleichner",346,5.19,7.81
+MJLK-995541,Tea Leaves - Oolong,Dickens-Ziemann,851,7.28,0.33
+CRNK-772065,"Sugar - Sweet N Low, Individual",Bradtke Inc,353,1.82,2.36
+NVIW-478355,Table Cloth 54x72 White,Rolfson Inc,100,9.89,4.35
+MBMH-995050,Shrimp - Black Tiger 6 - 8,Ledner-Schamberger,708,4.30,5.67
+NHAP-034733,"Cherries - Maraschino,jar",Harris-McGlynn,737,8.48,1.50
+TLZW-120442,Flower - Potmums,"Barton, Christiansen and Krajcik",567,8.13,4.09
+OQQS-913758,Glucose,Koss and Sons,821,3.16,9.72
+EPSQ-040805,Wine - Domaine Boyar Royal,Cartwright-Connelly,368,0.71,8.39
+NUMC-019217,Longos - Lasagna Beef,"Parker, Langosh and Daugherty",777,9.16,3.76
+QYAB-512591,Cheese Cloth No 100,Marvin-Schuster,147,5.75,7.57
+TKBH-989732,Squash - Acorn,Jacobi-Ullrich,684,8.30,5.17
+HKUY-208761,Canadian Emmenthal,"Klein, Cormier and Krajcik",444,3.57,2.79
+BRLE-970063,Wine - Prosecco Valdobiaddene,"Pacocha, Watsica and Douglas",626,1.43,0.45
+VWZP-114477,Pork - Ham Hocks - Smoked,"Ferry, Carter and Fritsch",485,6.30,8.16
+VXNS-110906,Coffee - Espresso,"VonRueden, Wintheiser and Feest",496,4.06,9.30
+YBII-425146,Bread - Hot Dog Buns,"Boyer, Littel and Bartell",877,8.87,5.82
+FSTJ-913005,Ginsing - Fresh,"Boyle, Jast and Runolfsdottir",603,4.11,7.95
+KBNO-638822,Soup Campbells Turkey Veg.,Mosciski-Bayer,246,9.04,9.50
+QNAK-134028,Lidsoupcont Rp12dn,O'Conner Group,853,5.58,8.92
+VXWH-393758,Tomatoes - Orange,"Lockman, O'Reilly and Denesik",824,5.95,7.18
+MUCV-174712,"Wine - White, Ej",Jacobs LLC,464,2.81,7.87
+VABH-546508,Dill Weed - Dry,Flatley and Sons,919,5.76,8.43
+FDYF-831317,Pear - Prickly,"Harvey, Rempel and Ondricka",444,0.34,1.36
+IHRU-230237,Oil - Safflower,Schaden-Terry,280,8.18,2.81
+EAZH-565921,Chicken - Tenderloin,Torp Group,785,3.55,6.89
+OJNL-952915,Longos - Grilled Chicken With,Waelchi Inc,423,2.03,2.94
+HGCI-109683,Crab Brie In Phyllo,Hand-Farrell,683,3.31,3.90
+FEPN-029343,Mace Ground,Dickinson-Wiegand,112,8.36,3.53
+TJJV-789040,"Coke - Diet, 355 Ml",Walker-Waters,576,6.07,3.85
+KYPP-735404,Milk - Chocolate 250 Ml,"Larson, Effertz and Bartoletti",375,2.06,3.09
+RAZE-690363,"Quail - Eggs, Fresh",Bernhard-Kessler,314,5.12,6.05
+NJMW-236543,"Yogurt - Raspberry, 175 Gr",Littel-Jenkins,804,0.66,8.21
+BOPI-974172,"Artichokes - Knobless, White","Cremin, O'Reilly and Wuckert",888,7.56,5.07
+FASI-244708,Sausage - Meat,"Jacobs, Herman and Torp",708,7.76,5.57
+XJZB-591559,Sole - Iqf,Marvin Group,542,5.74,4.24
+DSPS-950268,Prunes - Pitted,"Champlin, Price and Erdman",54,0.18,3.78
+URXU-053157,Pastrami,Hane and Sons,780,4.01,5.64
+VTTQ-157772,"Bread - Roll, Italian",McDermott-Ratke,720,2.76,9.69
+YYFS-029379,Sprite - 355 Ml,Deckow-Batz,865,9.38,4.08
+AECL-008439,Wine - Cousino Macul Antiguas,Koss-Toy,229,3.79,3.00
+CYNL-926460,Bananas,Tromp Inc,652,4.72,5.96
+KTFF-845167,Sobe - Cranberry Grapefruit,Orn-Mohr,748,0.95,9.57
+ZHGM-417396,Tomatoes,Weimann Group,526,0.93,0.21
+VKRR-172303,Sauce - Soy Low Sodium - 3.87l,Lockman-VonRueden,417,1.00,4.50
+HGAK-772935,Coriander - Ground,Murray LLC,53,4.60,2.46
+SCDU-708834,French Pastry - Mini Chocolate,"Sipes, Morissette and Paucek",51,9.82,2.98
+TXSG-481522,"Ranchero - Primerba, Paste","Gulgowski, Kertzmann and Orn",294,8.09,3.92
+GZDG-580672,"Pasta - Fusili, Dry",Kuhlman-Wiza,964,2.78,1.14
+RFAC-894859,"Bread - Roll, Whole Wheat","Terry, Stracke and Rohan",432,8.18,0.37
+GSBD-279545,Pasta - Agnolotti - Butternut,Spencer LLC,349,8.07,7.60
+EERP-901366,"Beef - Kindney, Whole","Robel, Roob and Hauck",438,3.18,1.53
+NRZK-175376,Bandage - Flexible Neon,"Collins, Keeling and White",621,0.70,8.56
+CPNP-011187,Tamarind Paste,Bradtke and Sons,856,7.36,8.94
+PHCG-115950,Jack Daniels,Satterfield-Reinger,552,2.22,8.28
+DQZN-952612,Snapple - Mango Maddness,Rippin and Sons,270,0.55,0.02
+HYSH-268029,Chips Potato Salt Vinegar 43g,"Mueller, Boehm and Turcotte",286,2.20,9.19
+XLOI-363645,Fennel - Seeds,"Lowe, O'Connell and Nader",684,4.21,4.60
+YVAV-222610,Cheese Cheddar Processed,"Padberg, Schmitt and Hackett",358,0.01,4.54
+TCEL-657665,Vaccum Bag - 14x20,Auer-Harvey,838,2.14,7.81
+CTMI-234855,Soup - Campbells Pasta Fagioli,"Koelpin, Hessel and Erdman",936,6.80,8.64
+RHWD-238317,Table Cloth 90x90 Colour,Heathcote-Nienow,316,7.52,6.91
+OGRP-128470,Beef - Tenderloin Tails,"Weber, D'Amore and Harvey",893,6.68,0.90
+JPDL-576835,Container - Foam Dixie 12 Oz,"Kilback, Mayert and Wilkinson",819,2.42,9.05
+MNYA-405659,Bag - Regular Kraft 20 Lb,"Rutherford, Terry and Vandervort",693,0.14,7.28
+AFNR-617341,Lamb - Shanks,"Schneider, Pollich and Bruen",525,6.03,6.39
+JBNV-690641,Squash - Guords,Padberg Inc,253,9.63,8.26
+OYZB-681109,Bar - Granola Trail Mix Fruit Nut,"Hartmann, Jones and Berge",187,3.43,0.62
+COGA-026524,"Tendrils - Baby Pea, Organic","Harvey, Keeling and Goyette",221,5.72,1.40
+NRFH-129905,Wine - Alsace Gewurztraminer,Mosciski-Wiegand,1000,2.17,6.26
+NAYT-596811,Mushroom - Morel Frozen,Orn and Sons,766,3.72,1.35
+WCFG-856314,Crackers - Melba Toast,Ryan Group,524,7.68,2.37
+NVPK-557756,Sugar - Monocystal / Rock,Bruen and Sons,373,9.57,3.01
+NYPM-370128,Napkin Colour,Nitzsche-Halvorson,62,8.15,0.24
+BNYQ-991352,Nantuket Peach Orange,Bednar Inc,451,3.85,3.10
+OOOK-809438,Pie Filling - Cherry,Reynolds-Davis,296,9.85,4.85
+WYKU-711478,Spice - Peppercorn Melange,Lubowitz LLC,502,4.23,9.46
+RZOY-449925,Sage Derby,"O'Reilly, Satterfield and Lehner",796,4.20,3.02
+XPQL-225752,Eel Fresh,Greenfelder Inc,764,8.23,5.00
+QGGV-816729,Muffin Mix - Corn Harvest,Grant Group,982,4.67,6.37
+OVBI-104341,"Rum - White, Gg White",Adams-Hane,118,2.21,6.17
+APWG-445723,Herb Du Provence - Primerba,Barton-Bauch,852,6.74,4.58
+KJFU-309232,Eggroll,Marquardt and Sons,151,3.51,0.48
+APKP-688839,Spinach - Baby,Treutel Group,626,1.81,6.37
+EIPD-741200,Seedlings - Clamshell,Huels-Bradtke,987,6.72,3.91
+DYTS-410908,Beer - Corona,Dickens-Olson,358,9.90,9.12
+GREL-464512,Steampan - Half Size Shallow,Franecki Group,731,0.00,6.60
+CWZF-258565,Creme De Menth - White,Kreiger-Rogahn,633,3.62,9.36
+ZZRY-180139,Onions - White,Ziemann-Rau,365,6.58,1.13
+KKBI-784861,Cake - Mini Potato Pancake,Thiel Group,357,6.81,6.03
+JDUY-229774,Pie Box - Cello Window 2.5,O'Keefe and Sons,630,6.66,7.93
+AXKN-978090,Gloves - Goldtouch Disposable,"Zemlak, Heaney and Ullrich",321,8.54,2.21
+YDOV-834154,"Vermacelli - Sprinkles, Assorted",Toy-Lehner,683,2.90,8.01
+VDRM-770864,Soup Bowl Clear 8oz92008,Connelly Inc,300,3.92,1.47
+QMJN-637236,Tea - Grapefruit Green Tea,"Feeney, Keeling and Johnson",256,1.39,7.99
+YBWU-605858,Wine - Vineland Estate Semi - Dry,"Hyatt, Larson and Connelly",836,7.40,3.75
+BMUD-094091,"Sauce - Gravy, Au Jus, Mix",Tromp-Thiel,88,4.17,4.47
+VZYS-951017,Lemon Tarts,Borer LLC,352,8.01,0.18
+ZNIB-871755,Wine - Ruffino Chianti Classico,"Yost, Grady and Krajcik",719,1.95,7.84
+JZAH-717316,Caviar - Salmon,Heathcote-Mueller,840,2.91,8.73
+JTIC-955467,"Yeast - Fresh, Fleischman","Auer, Beier and Nolan",276,1.01,5.15
+OCEJ-394286,Cookie Chocolate Chip With,"Hermiston, Beahan and Stanton",938,4.38,7.68
+SQTH-128418,"Pasta - Penne, Rigate, Dry",Wunsch LLC,896,9.59,7.98
+USJD-303911,Mix - Cocktail Ice Cream,"Skiles, Waters and McGlynn",286,7.90,2.32
+HYYQ-307092,Soup - Cream Of Broccoli,Bayer and Sons,688,5.55,2.32
+AGWW-701574,Bagel - 12 Grain Preslice,"Swaniawski, Miller and Rempel",227,1.71,6.57
+LYKP-782969,"Veal - Round, Eye Of",Smitham and Sons,853,2.92,1.83
+UWBH-703394,Graham Cracker Mix,"Turner, Marquardt and Hills",155,6.63,6.68
+OSRT-715423,Mangostein,"Fadel, Nienow and Mitchell",824,4.41,9.54
+PGTW-314717,Glass Clear 8 Oz,"Dach, Pagac and Kuhic",646,8.84,5.40
+JFYH-963151,Crackers - Water,Gislason-Gorczany,57,3.28,5.78
+EFGJ-669343,Sobe - Berry Energy,"Bradtke, Christiansen and Bayer",60,0.63,8.74
+EGCX-029106,Scallops - U - 10,Denesik and Sons,120,5.58,2.89
+MHDL-493396,Wine - Winzer Krems Gruner,Kuhn-Daugherty,512,3.15,0.12
+JJKN-498910,Assorted Desserts,Nitzsche-Bergstrom,372,8.84,7.18
+EKQF-180065,Beer - Creemore,Reichel Inc,77,1.34,9.08
+WAPA-325842,Bread Base - Italian,Grimes-Stehr,129,5.04,5.22
+HPNI-909142,Calypso - Pineapple Passion,Heaney-Hagenes,226,8.88,2.43
+ICJG-036674,Lettuce - Belgian Endive,"Doyle, Pagac and Kulas",446,7.34,3.79
+XDPV-521543,Cardamon Seed / Pod,Fahey LLC,335,0.39,4.13
+BNUT-860305,Wine - Stoneliegh Sauvignon,"Hagenes, Doyle and Lind",432,1.06,3.25
+QZQA-022873,Toamtoes 6x7 Select,Dach Inc,390,9.47,7.50
+DSPO-027052,Venison - Racks Frenched,Reichert Group,761,3.68,7.79
+KVJD-841532,"Napkin - Cocktail,beige 2 - Ply","Zieme, Mann and Walter",812,2.22,9.03
+INPY-807781,Juice - Lagoon Mango,Hintz-Leffler,716,7.00,2.49
+AQJD-030476,Tahini Paste,Volkman-Daugherty,337,4.04,1.20
+DHAU-548870,Gloves - Goldtouch Disposable,Rosenbaum-Smitham,74,3.56,4.50
+HXOR-861248,Wine - Cousino Macul Antiguas,Goodwin LLC,747,7.63,6.78
+YINP-433810,"Pasta - Fettuccine, Dry",Cremin-O'Reilly,876,3.43,5.53
+UFAF-603361,Smirnoff Green Apple Twist,Jacobs-Marks,935,5.70,0.64
+YYAN-892248,Wine - Penfolds Koonuga Hill,Adams LLC,755,4.00,7.20
+KETM-541337,Cookie Trail Mix,Walter-Wintheiser,617,1.46,2.29
+MHXO-215825,Wonton Wrappers,Gutmann LLC,577,6.79,9.12
+XMCN-790783,Spice - Chili Powder Mexican,Leffler Group,424,7.26,6.47
+LOMR-497349,Wine - Prosecco Valdobiaddene,Ledner and Sons,765,0.80,5.88
+KIRI-246008,Sole - Fillet,Hoeger Group,520,2.16,1.77
+TPHP-192256,Lettuce - Sea / Sea Asparagus,"Armstrong, McClure and Stracke",775,8.71,8.93
+VCKS-655000,"Rum - White, Gg White",Dooley-Sporer,643,1.48,1.11
+GJFP-544599,"Stock - Beef, Brown",Mante LLC,926,8.32,7.09
+NNND-786845,"Veal - Tenderloin, Untrimmed",Kerluke LLC,230,4.75,9.38
+CYYA-957383,Oil - Canola,Denesik-Mueller,975,1.71,4.56
+KZXO-844634,Nantucket Apple Juice,"Bins, Daniel and Hilll",275,7.02,7.85
+KDFR-840636,Shark - Loin,Steuber-Franecki,199,3.91,2.41
+PXSZ-008460,Cake - Mini Cheesecake,"King, Okuneva and Ritchie",109,8.59,1.73
+NRMY-447541,Wine - Valpolicella Masi,Wunsch Group,581,1.78,7.70
+SSOK-570352,Barramundi,"Bins, Toy and Harris",649,0.71,9.17
+BSER-790172,Peas Snow,Marquardt-Connelly,147,3.90,1.93
+JRCP-193487,Lettuce - Lambs Mash,Donnelly Group,906,4.42,5.29
+FRJJ-976336,"Beef - Rib Roast, Cap On","Cruickshank, Cummerata and Mertz",479,3.77,2.13
+FNZA-053572,Waffle Stix,Effertz-Reichert,294,2.88,8.06
+RJBU-828587,Bar - Granola Trail Mix Fruit Nut,"O'Connell, Emmerich and Haag",623,2.08,4.96
+WNWH-153892,"Water - Spring Water, 355 Ml","Schultz, Boyer and Hessel",340,9.14,4.01
+DSIB-268644,Extract - Raspberry,"Leannon, Schamberger and Volkman",149,2.30,6.54
+TEDS-688012,"Juice - Pineapple, 341 Ml",Monahan-Kunde,578,8.37,9.47
+JUGZ-548894,Kellogs Cereal In A Cup,"Ward, Nikolaus and Feest",433,5.32,4.64
+TQNQ-690394,Mayonnaise,Bashirian-Schimmel,219,8.55,8.95
+HCNW-204733,"Potatoes - Instant, Mashed",Jaskolski Group,53,3.94,0.61

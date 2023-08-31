@@ -98,3 +98,9 @@ pyhton3 dataloader.py
 python3 dataloader.py 
 git clone https://github.com/GoogleCloudPlatform/cloud-bigtable-examples.git
 ```
+
+
+https://www.scribd.com/document/501036817/IOT-Analytics-for-the-Internet-of-Things-IoT-Packt
+
+
+https://www.scribd.com/document/513453064/Internet-of-Things-a-Hands-On-Approach-by-Arshdeep-Bahga-Vijay-Madisetti
