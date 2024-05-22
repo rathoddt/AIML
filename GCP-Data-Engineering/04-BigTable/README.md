@@ -35,5 +35,13 @@ Scans are the most common way to read Bigtable data. You can read a range of con
 A secondary consideration is the avoidance of hotspots – to prevent hotspots, you need to consider write patterns and how you can avoid accessing a small key space in a short amount of time.
 
 
+How twitter  they optimized their schema?  
+Visualizing Cloud Bigtable Access Patterns at Twitter for Optimizing Analytics  
+
+https://www.youtube.com/watch?v=3QHGhnHx5HQ&t=1574s
+
+
+
+
 ### Client libraries  
 https://cloud.google.com/bigtable/docs/samples-python-hello

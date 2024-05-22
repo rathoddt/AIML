@@ -30,3 +30,30 @@ mvn -Pdataflow-runner compile exec:java \
 ### Resources
 https://beam.apache.org/documentation/programming-guide/
 
+
+```
+wget https://github.com/apache/beam/blob/master/sdks/python/apache_beam/examples/wordcount.py
+
+python3 -m \
+    apache_beam.examples.wordcount \
+    --project <project-name> \
+    --runner DataflowRunner \
+    --temp_location \
+    gs:// <project-name> /temp \
+    --output \
+    gs:// <project-name> /results/output \
+    --job_name dataflow-demo \
+    --region australia-southeast1
+
+python3 -m \
+    apache_beam.examples.wordcount \
+    --project playground-s-11-69d877d4 \
+    --runner DataflowRunner \
+    --temp_location \
+    gs://gcp-pca-301410-69d877d4/temp \
+    --output \
+    gs://gcp-pca-301410-69d877d4/results/output \
+    --job_name dataflow-demo \
+    --region us-east1
+```
+
