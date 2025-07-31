@@ -3,7 +3,7 @@
 - using Cloud Storage, Dataflow, and BigQuery to build extract, transform, and load (ETL) workflows;
 - and building machine learning models using BigQuery ML.
   
-## Creating a Data Transformation Pipeline with Cloud Dataprep
+## I. Creating a Data Transformation Pipeline with Cloud Dataprep
 #### Task 1. Open Dataprep in the Google Cloud console
 ```
 #Create cloud identity
@@ -29,7 +29,7 @@ Create BigQuery  dataset `ecommerce`
 
 #### Task 4. Exploring ecommerce data fields with the UI
 
-## ETL Processing on Google Cloud Using Dataflow and BigQuery (Python)
+## II. ETL Processing on Google Cloud Using Dataflow and BigQuery (Python)
 
 #### Task 1. Download the starter code
 ```
