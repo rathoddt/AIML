@@ -29,3 +29,21 @@ Create BigQuery  dataset `ecommerce`
 
 ### Task 4. Exploring ecommerce data fields with the UI
 
+## ETL Processing on Google Cloud Using Dataflow and BigQuery (Python)
+
+### Task 1. Download the starter code
+```
+gcloud storage cp -r gs://spls/gsp290/dataflow-python-examples .
+export PROJECT=qwiklabs-gcp-04-13a7b788ff3f
+gcloud config set project $PROJECT
+```
+### Task 2. Create a Cloud Storage bucket and copy files to the bucket
+```
+gcloud storage cp gs://spls/gsp290/data_files/usa_names.csv gs://$PROJECT/data_files/
+gcloud storage cp gs://spls/gsp290/data_files/head_usa_names.csv gs://$PROJECT/data_files/
+```
+#### Task 3. Create a BigQuery dataset
+```
+bq mk lake
+```
+
