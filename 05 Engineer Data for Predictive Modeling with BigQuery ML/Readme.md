@@ -29,6 +29,9 @@ Create BigQuery  dataset `ecommerce`
 
 #### Task 4. Exploring ecommerce data fields with the UI
 
+
+
+
 ## II. ETL Processing on Google Cloud Using Dataflow and BigQuery (Python)
 
 #### Task 1. Download the starter code
