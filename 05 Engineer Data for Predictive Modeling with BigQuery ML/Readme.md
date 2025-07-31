@@ -4,7 +4,7 @@
 - and building machine learning models using BigQuery ML.
   
 ## Creating a Data Transformation Pipeline with Cloud Dataprep
-### Task 1. Open Dataprep in the Google Cloud console
+#### Task 1. Open Dataprep in the Google Cloud console
 ```
 #Create cloud identity
 gcloud beta services identity create --service=dataprep.googleapis.com
@@ -12,7 +12,7 @@ gcloud beta services identity create --service=dataprep.googleapis.com
 
 <img width="1600" height="676" alt="image" src="https://github.com/user-attachments/assets/67b07632-8d63-4ac5-b7ec-25d74e11a63a" />
 
-### Task 2. Creating a BigQuery dataset
+#### Task 2. Creating a BigQuery dataset
 Create BigQuery  dataset `ecommerce`
 ```
 #standardSQL
@@ -24,20 +24,20 @@ Create BigQuery  dataset `ecommerce`
  WHERE date = '20170801'; # limiting to one day of data 56k rows for this lab
 ```
 
-### Task 3. Connecting BigQuery data to Cloud Dataprep
+#### Task 3. Connecting BigQuery data to Cloud Dataprep
 - Create new flow `Ecommerce Analytics Pipeline`
 
-### Task 4. Exploring ecommerce data fields with the UI
+#### Task 4. Exploring ecommerce data fields with the UI
 
 ## ETL Processing on Google Cloud Using Dataflow and BigQuery (Python)
 
-### Task 1. Download the starter code
+#### Task 1. Download the starter code
 ```
 gcloud storage cp -r gs://spls/gsp290/dataflow-python-examples .
 export PROJECT=qwiklabs-gcp-04-13a7b788ff3f
 gcloud config set project $PROJECT
 ```
-### Task 2. Create a Cloud Storage bucket and copy files to the bucket
+#### Task 2. Create a Cloud Storage bucket and copy files to the bucket
 ```
 gcloud storage cp gs://spls/gsp290/data_files/usa_names.csv gs://$PROJECT/data_files/
 gcloud storage cp gs://spls/gsp290/data_files/head_usa_names.csv gs://$PROJECT/data_files/
