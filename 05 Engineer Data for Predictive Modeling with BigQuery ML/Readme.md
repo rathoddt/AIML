@@ -50,3 +50,34 @@ gcloud storage cp gs://spls/gsp290/data_files/head_usa_names.csv gs://$PROJECT/d
 bq mk lake
 ```
 
+### Task 4. Review and run the data ingestion pipeline
+The data ingestion pipeline ingests data from Cloud Storage into the BigQuery table using a TextIO source and a BigQueryIO destination. Specifically, the pipeline:
+
+- Ingests the files from Cloud Storage.
+- Filters out the header row in the files.
+- Converts the lines read to dictionary objects.
+- Outputs the rows to BigQuery.
+
+Review the Python code for the data ingestion pipeline. Navigate to dataflow_python_examples > dataflow_python_examples, and open the data_ingestion.py file.
+
+Set up the Docker container for the Dataflow jobs
+```
+cd ~
+docker run -it -e PROJECT=$PROJECT -v $(pwd)/dataflow-python-examples:/dataflow python:3.8 /bin/bash
+
+pip install apache-beam[gcp]==2.59.0
+#Next, in the running container in the Cloud Shell, change directories into where you linked the source code:
+cd dataflow/
+export PROJECT=qwiklabs-gcp-04-13a7b788ff3f
+
+python dataflow_python_examples/data_ingestion.py \
+  --project=$PROJECT \
+  --region=europe-west1 \
+  --runner=DataflowRunner \
+  --machine_type=e2-standard-2 \
+  --staging_location=gs://$PROJECT/test \
+  --temp_location gs://$PROJECT/test \
+  --input gs://$PROJECT/data_files/head_usa_names.csv \
+  --save_main_session
+```
+
