@@ -13,7 +13,7 @@ Authorize the plugin as instructed. If a project is not automatically selected, 
 
 
 ### Useful links
-- gs://partner-usecase-bucket/ucase009/Level-0.ipynb 
+- Building End to End MLOps Pipelines using Vertex AI: gs://partner-usecase-bucket/ucase009/Level-0.ipynb 
 - https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/multi_modal/solutions/image_captioning.ipynb
 - https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/classify_text_with_bert.ipynb
 - https://github.com/GoogleCloudPlatform/asl-ml-immersion/blob/master/notebooks/text_models/solutions/text_generation.ipynb
